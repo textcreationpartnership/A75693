@@ -1,0 +1,1279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An argument proving, that according to the covenant of eternal life revealed in the Scriptures, man may be translated from hence into that eternal life, without passing through death altho the humane nature of Christ himself could not be thus translated till he had passed through death.</title>
+            <author>Asgill, John, 1659-1738.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75693</idno>
+            <idno type="STC">Wing A3926</idno>
+            <idno type="STC">ESTC R208477</idno>
+            <idno type="EEBO-CITATION">38875532</idno>
+            <idno type="OCLC">ocm 38875532</idno>
+            <idno type="VID">152181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An argument proving, that according to the covenant of eternal life revealed in the Scriptures, man may be translated from hence into that eternal life, without passing through death altho the humane nature of Christ himself could not be thus translated till he had passed through death.</title>
+                  <author>Asgill, John, 1659-1738.</author>
+               </titleStmt>
+               <extent>106 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno Dom. 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Asgill.</note>
+                  <note>Reproduction of original in: Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Translation to heaven.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152181:1"/>
+            <p>AN ARGUMENT Proving, That <hi>according to the Covenant of Eternal Life revealed in the Scrip<g ref="char:EOLhyphen"/>tures,</hi> Man may be tranſlated from hence into that Eternal Life, without paſſing through Death, altho the Humane Na<g ref="char:EOLhyphen"/>ture of <hi>CHRIST</hi> himſelf could not be thus tranſlated till he had paſſed through Death.</p>
+            <q>
+               <l>—Nec vanis credite verbis;</l>
+               <l>Aſpicite en! faciat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fidem Conſpectus.</l>
+            </q>
+            <p>
+               <hi>Anno Dom.</hi> 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152181:2"/>
+            <pb n="3" facs="tcp:152181:2"/>
+            <head>THE PREFACE.</head>
+            <p>TO them that knew not the reaſon, it look'd like a <hi>Whym</hi> for the Man in the Goſpel to walk about the ſtreets with his Bed upon his Back on the Sabbath<g ref="char:EOLhyphen"/>day, while the reſt of the People were at their De<g ref="char:EOLhyphen"/>votion.</p>
+            <p>And perhaps it may ſeem <hi>more odd</hi> in me to bolt out an Argument in Divinity (as a Bone of Contention) into the World, at a time when the reſt of Mankind are ſo deeply engaged in Secular Affairs.</p>
+            <p>But <hi>he that regardeth the Wind will never ſow;</hi> and he that waiteth for Times and Seaſons will never do Buſineſs.</p>
+            <p>And as that ſeeming whimſical Man ſaid to them that reproved him, <hi>He that made me whole, the ſame ſaid unto me, Take up thy Bed and walk:</hi>
+            </p>
+            <p>So ſay I to them that affront me, <hi>He that re<g ref="char:EOLhyphen"/>vealed this unto me, the ſame bad me tell it a<g ref="char:EOLhyphen"/>broad,</hi> as a watch-word to be given out from one to another (every Man to his Fellow) as faſt as he receives it: <hi>Let him that heareth ſay, Come!</hi>
+            </p>
+            <pb n="4" facs="tcp:152181:3"/>
+            <p>And having thus delivered my part of the Meſſage, I look upon my ſelf to have no more to do with it afterwards than you have.</p>
+            <p>But hereby I ſhall know whether this Doctrine be mine or no.</p>
+            <p>If it be mine, it will ſink, and fall, and die: But if it be his that I think 'tis, it will kindle it ſelf like a Firebrand from one to another, till it hath ſet the World in Arms againſt Death.</p>
+            <p>And having thus left the deciſion of the truth of it to the ſucceſs, I begin to feel my ſelf more eaſy under it.</p>
+            <p>And as the four Leprous Men ſaid to one ano<g ref="char:EOLhyphen"/>ther in the Gate of <hi>Samaria; If we ſit here, we are ſure to die with Famine; and if we go into the Camp of the</hi> Syrians, <hi>we can but die by the Sword:</hi>
+            </p>
+            <p>So I have ſaid to my ſelf; If I ſubmit to Death, I am ſure to die; and if I oppoſe it, I can but be kill'd and die.</p>
+            <p>And ſhould I be baffled in this Eſſay, I can loſe nothing by it, but that little Credit with the World which I value not in compariſon of this Attempt.</p>
+            <p>And as thoſe four deſperate Men venturing themſelves upon this Reſolution, did thereupon find that they had been before more afraid than hurt:</p>
+            <p>So in making this Sally againſt Death, methinks I have diſcovered it to be rather a Bugbear than an Enemy.</p>
+            <pb n="5" facs="tcp:152181:3"/>
+            <p>And therefore as they having filled themſelves with Plunder, thought it their Duty to go and tell the news to them that were ready to periſh:</p>
+            <p>So I can't ſatisfy my ſelf to eat my Morſel a<g ref="char:EOLhyphen"/>lone, without communicating to them who I know (with my ſelf) muſt, by reaſon of Death, be all their life-time ſubject to Bondage.</p>
+            <p>And as their glad Tidings of plenty was never the leſs welcome to the King and People of <hi>Iſrael,</hi> for being brought to them by Men poor and miſerable:</p>
+            <p>So if my News be true in it ſelf, why ſhould it fare the worſe for being told by <hi>the greateſt of Sinners?</hi>
+            </p>
+            <p>And perhaps this qualifies me to be the Meſ<g ref="char:EOLhyphen"/>ſenger, leſt one more holy ſhould ſeem to be ho<g ref="char:EOLhyphen"/>noured with it for his own perſonal Sanctity.</p>
+            <p>I remember a ſudden Retort once given me by a Lady (to whom I excuſed this my Emulation by the Example of <hi>Enoch) But you are not ſo good as he was;</hi> for <hi>Enoch walked with God.</hi>
+            </p>
+            <p>And this might have puzled me, had not <hi>Paul</hi> (in his Liſt of Worthys) counted upon the Tran<g ref="char:EOLhyphen"/>ſlation of <hi>Enoch</hi> as done by Faith: <hi>By Faith</hi> E<g ref="char:EOLhyphen"/>noch <hi>was tranſlated that he ſhould not ſee Death.</hi>
+            </p>
+            <p>Why then if I have as good a Faith for this purpoſe as he had, I am in this point <hi>(quoad hoc)</hi> as good a Man as he was, tho I fall ſhort of him in all his other Qualities.</p>
+            <pb n="6" facs="tcp:152181:4"/>
+            <p>Nor is it to be expected that any Aſſembly of Divines ſhould be employed in ſuch a Buſineſs as this.</p>
+            <p>They incloſe themſelves within the Pale of their own Church, and whoever breaks through that Fence is proſecuted as a Treſpaſſer upon their Ju<g ref="char:EOLhyphen"/>riſdiction.</p>
+            <p>And thus the Jewiſh Prieſts excommunicated a Layman for teaching them Religion, <hi>Thou waſt altogether born in Sin, and doſt thou teach us?</hi> and they caſt him out.</p>
+            <p>But he that had opened his Eyes, took him in.</p>
+            <p>And ſuch an exchange I ſhould reckon no great misfortune.</p>
+            <p>But is it not a ſhame, That this <hi>Enoch,</hi> in the beginning of Time, ſo long before the receipt of the Promiſe, ſhould attain to that Faith in Chriſt which we, that have ſeen him crucified before our eyes, think a Sin to offer at?</p>
+            <p>But having been tempted to commit this Sin (like a true Mother's Child of my grand Parent <hi>Eve)</hi> I would tempt my Friends to do ſo too.</p>
+            <p>And all I ask of them is this;</p>
+            <p>Having abſtracted the ſtudy of ſeven years Recluſe into leſs than two hours reading, I only deſire the peruſal of it at a time of leiſure, when Men and Women deſign to be ſerious, and think moſt of themſelves.</p>
+            <p>And then I flatter my ſelf that they will find it not the moſt unpleaſant hour that ever they ſpent in their life.</p>
+            <pb n="7" facs="tcp:152181:4"/>
+            <p>For this I know, that nothing is more pleaſant to us than News; and what I have ſaid, was ne<g ref="char:EOLhyphen"/>ver ſaid by Man before.</p>
+            <p>And this I know, that (notwithſtanding the defection of our Natures) nothing is more plea<g ref="char:EOLhyphen"/>ſant to Man than Truth. And what I have ſaid is true:</p>
+            <p>And a Truth <hi>that all the Gainſayers ſhall not be able to reſiſt.</hi>
+            </p>
+            <p>Tho it be in contradiction to the moſt received Truth in the World, <hi>That all Men muſt die.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152181:5"/>
+            <pb n="9" facs="tcp:152181:5"/>
+            <head>
+               <hi>An Argument proving, That</hi> ac<g ref="char:EOLhyphen"/>cording to the Covenant of Eternal Life revealed in the Scriptures, <hi>Man may be tranſ<g ref="char:EOLhyphen"/>lated from hence into that Eter<g ref="char:EOLhyphen"/>nal Life,</hi> &amp;c.</head>
+            <p>
+               <hi>ANTE obitum felix nemo, ſupremaque fata,</hi> is a fiction of Poets.</p>
+            <p>And that old Motto (worn upon Tomb-ſtones) <hi>Death is the Gate of Life,</hi> is a Lie. By which Men decoy one a<g ref="char:EOLhyphen"/>nother into Death, taking it to be a thorough<g ref="char:EOLhyphen"/>fare into Eternal Life. Whereas it is juſt ſo far out of the way.</p>
+            <p>For die when we will, and be buried when we will, and lie in the Grave as long as we will, we muſt all return from thence and ſtand again upon the Earth before we can aſ<g ref="char:EOLhyphen"/>cend into the Heavens.—<hi>Hinc itur ad Aſtra.</hi>
+            </p>
+            <p>Now the Aſſertion of Chriſt concerning himſelf was, <hi>that Man by him may live for e<g ref="char:EOLhyphen"/>ver.</hi>
+            </p>
+            <p>And this is that Magnetick which hath drawn the World after him.</p>
+            <pb n="10" facs="tcp:152181:6"/>
+            <p>For as he ſaid to us, <hi>Except your Righteouſ<g ref="char:EOLhyphen"/>neſs exceed the Righteouſneſs of the Scribes and Phariſees, ye ſhall in no wiſe enter into the King<g ref="char:EOLhyphen"/>dom of God.</hi> So we may ſay of him; Except his words exceed the words of common Men, what ſhould we follow him for?</p>
+            <p>And thus, when he asked his Diſciples if they would leave him? they asked him again, <hi>Whither ſhall we go? Thou haſt the words of E<g ref="char:EOLhyphen"/>tetnal Life;</hi> which no one elſe pretends to.</p>
+            <p>Now if theſe words of his are words only, then was he an Impoſtor, and his Doctrine is falſe.</p>
+            <p>But if this Aſſertion of himſelf be true, <hi>That Man by him may live for ever:</hi> Then all our Attempts beneath this are mean and cow<g ref="char:EOLhyphen"/>ardly, <hi>as counting our ſelves unworthy of Eter<g ref="char:EOLhyphen"/>nal Life.</hi>
+            </p>
+            <p>The Objection made againſt him when he affirmed it was, <hi>The Cuſtom of the World to the contrary.</hi> Abraham <hi>is dead, and the Pro<g ref="char:EOLhyphen"/>phets are dead, whom makeſt thou thy ſelf to be?</hi>
+            </p>
+            <p>And I am not unaware that this Cuſtom of the World to die, hath gained ſuch a preva<g ref="char:EOLhyphen"/>lency over our minds, by prepoſſeſſing us of the neceſſity of Death, that it ſtands ready to ſwallow my Argument whole without digeſt<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>For if the cuſtom of Bondage derived up<g ref="char:EOLhyphen"/>on Man but for a few Generations, doth ſo enure him to ſubjection, that he thinks it
+<pb n="11" facs="tcp:152181:6"/> 
+               <hi>Jure divino,</hi> and all attempts againſt it to be Rebellion:</p>
+            <p>How much more may I expect that this at<g ref="char:EOLhyphen"/>tempt againſt Death (which hath had ſo much a longer poſſeſſion over Man) will be accounted madneſs?</p>
+            <p>But as a learned Man ſaid, <hi>That the Pride of Women comes from the baſeneſs of Men; and the courage of Cowards from others more Cowards:</hi> So I may ſay, <hi>That the Dominion of Death is ſupported by our fear of it,</hi> by which it hath bullied the World to this day.</p>
+            <p>And therefore before I fall upon the direct proof of my Argument, I'll offer an anſwer to the Cuſtom of the World againſt me.</p>
+            <p>Cuſtom it ſelf, without a Reaſon for it, is an Argument only to Fools.</p>
+            <p>Nor can the Life or Death of one Man be aſſigned as the cauſe of the Life or Death of another, unleſs the ſame thing happen to them both.</p>
+            <p>Abraham <hi>is dead, and the Prophets are dead!</hi> What then?</p>
+            <p>Why! <hi>Abraham</hi> died of Age (as the Folk call it) <hi>he gave up the Ghoſt, being an old Man and full of Years.</hi>
+            </p>
+            <p>And the Prophets were many of them knock'd on the head, <hi>Ye have ſtoned the Pro<g ref="char:EOLhyphen"/>phets.</hi>
+            </p>
+            <p>Muſt it therefore follow that either of theſe Deaths muſt happen to me, or that be<g ref="char:EOLhyphen"/>cauſe
+<pb n="12" facs="tcp:152181:7"/> they died of one death, I muſt die of another?</p>
+            <p>Suppoſe my Mother died in Childbed, muſt I therefore do ſo too? Or that my Father was hang'd, muſt I therefore be drown'd?</p>
+            <p>Abraham <hi>is dead, and the Prophets are dead.</hi> What then?</p>
+            <p>Why <hi>Abraham</hi> had a Son of his own beget<g ref="char:EOLhyphen"/>ting at a hundred years old, upon a Woman of ninety; had an Army of Men born in his own Houſe; Flocks and Herds without number, and a whole Country of his own to feed them in. And the Prophets were Favorites of Hea<g ref="char:EOLhyphen"/>ven, could raiſe the Dead, and kill the Living. Muſt therefore any of theſe Gifts happen to me? Why then if I muſt not partake with <hi>Abraham</hi> and the Prophets in their Bleſſings, why muſt I partake with them in their Deaths?</p>
+            <p>Nor did <hi>Abraham</hi> die, becauſe the Prophets died; nor did the Prophets die, becauſe <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> died.</p>
+            <p>Then if their Deaths had no effects upon one another, <hi>Why ſhould they have any effect upon me?</hi>
+            </p>
+            <p>And as the Life or Death of one Man, is no cauſe of the Life or Death of another; ſo the multitude of Examples don't alter the caſe.</p>
+            <p>The Life or Death of all the World except one Man, can be no cauſe of the Life or Death of that one Man.</p>
+            <pb n="13" facs="tcp:152181:7"/>
+            <p>Almoſt this very caſe once happen'd in the World, when the Flood deſtroyed all but eight Perſons; and yet this was no Argument that thoſe eight muſt be drowned too; nor was the preſervation of them any Argument for the preſervation of the reſt.</p>
+            <p>We have heard of a hundred thouſand Men ſlain in Battel, and yet this was no Argument for the death of any other Man who was not ſlain in it.</p>
+            <p>Wherefore the cuſtom of the World to die, is no Argument one way or other.</p>
+            <p>But becauſe I know that Cuſtom it ſelf is admitted as an evidence of Title, upon pre<g ref="char:EOLhyphen"/>ſumption that this Cuſtom had once a reaſo<g ref="char:EOLhyphen"/>nable Commencement, and that this Reaſon doth continue; therefore it is incumbent up<g ref="char:EOLhyphen"/>on me to anſwer this Cuſtom, by ſhewing</p>
+            <p>The Time and Reaſon of its Commence<g ref="char:EOLhyphen"/>ment: And that this Reaſon is determined.</p>
+            <p>Which if I do ſhew, then the bare Cuſ<g ref="char:EOLhyphen"/>tom of the World to die, ought no longer to be admitted as a Title againſt Life.</p>
+            <p>Firſt then, I do admit the Cuſtom or Poſ<g ref="char:EOLhyphen"/>ſeſſion of Death over the World, to be as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That Death did reign from</hi> Adam <hi>to</hi> Moſes, <hi>by an uninterrupted poſſeſſion, over all Men, Wo<g ref="char:EOLhyphen"/>men, and Children, created or born (except one Breach made upon it in that time by</hi> Enoch.)</p>
+            <p>
+               <hi>And hath reigned from</hi> Moſes <hi>unto this day
+<pb n="14" facs="tcp:152181:8"/> by the like uninterrupted poſſeſſion (except one other Breach made upon it in this time by</hi> Eli<g ref="char:EOLhyphen"/>jah.)</p>
+            <p>And this is as ſtrong a Poſſeſſion as can be alledged againſt me.</p>
+            <p>To anſwer this I muſt ſhew; That this Cuſ<g ref="char:EOLhyphen"/>tom or Poſſeſſion of Death had a reaſonable Commencement, which was the Original of it.</p>
+            <p>To avoid this Poſſeſſion I muſt ſhew, That this Reaſon is determined, and that therefore this Poſſeſſion ought to be no longer admitted as a Title againſt Life.</p>
+            <p>The Religion of the World now is, <hi>That Man is born to die.</hi> But from the beginning it was not ſo; for Man was made to live: God made not Death till Man brought it upon himſelf by his delinquency.</p>
+            <p>
+               <hi>Adam</hi> ſtood as fair for Life as Death, and fairer too, becauſe he was in the actual poſſeſ<g ref="char:EOLhyphen"/>ſion of Life, as Tenant thereof at the Will of God; and had an opportunity to have made that Title perpetual by the Tree of Life which ſtood before him, with the Tree of Knowledg of Good and Evil.</p>
+            <p>And here 'tis obſervable how the ſame act of Man is made the condition both of his Life and Death.</p>
+            <p>Put forth thy hand, and pull, and eat, and die. Or, Put forth thy hand, and pull, and eat, and live for ever.</p>
+            <pb n="15" facs="tcp:152181:8"/>
+            <p>So little doth God eſteem the Work of Man in order to his own Salvation.</p>
+            <p>The Lord <hi>Bacon,</hi> deſcanting upon the Fall of Man, expreſſes it thus: <hi>That Man made a total defection from God, preſuming to imagine that the Commandments and Prohibitions of God were not the Rules of Good and Evil, but that Good and Evil had their own Principles and be<g ref="char:EOLhyphen"/>ginnings; and that Man luſted after the know<g ref="char:EOLhyphen"/>ledg of thoſe imagined Beginnings, to the end to depend no more upon God's Will revealed, but up<g ref="char:EOLhyphen"/>on himſelf and his own Light as a God; than which there could not be a Sin more oppoſite to the whole Law of God.</hi>
+            </p>
+            <p>For 'tis not to be conceived that there was any phyſical Virtue in either of theſe Trees, whereby to cauſe Life or Death: But God hav<g ref="char:EOLhyphen"/>ing ſanctified them by thoſe two different Names, he was obliged to make good his own Characters of them, by commanding the whole Creation to act in ſuch a manner, as that Man ſhould feel the Effects of this Word, ac<g ref="char:EOLhyphen"/>cording to which of the Trees he firſt put forth his hand.</p>
+            <p>And it is yet more ſtrange, that Man hav<g ref="char:EOLhyphen"/>ing Life and Death ſet before him at the ſame time and place, and both to be had upon the ſame condition, that he ſhould ſingle out his own Death, and leave the Tree of Life untouch'd.</p>
+            <p>And what is further ſtrange, even after his election of Death, he had an interval of time
+<pb n="16" facs="tcp:152181:9"/> before his expulſion out of <hi>Paradiſe,</hi> to have retrieved his Fate, by putting forth his hand to the Tree of Life; and that yet he omitted this too.</p>
+            <p>But by all this it is manifeſt, That as the Form or Perſon of Man, in his firſt Creation, was capable of Eternal Life without dying; ſo the fall of Man which happen'd to him after his Creation, hath not diſabled his Perſon from that capacity of Eternal Life.</p>
+            <p>And therefore durſt Man, even then, have broken through the Cherubim and flaming Sword; or could he now any way come at the Tree of Life, he muſt yet live for ever, not<g ref="char:EOLhyphen"/>withſtanding his Sin committed in Paradiſe, and his expulſion out of it.</p>
+            <p>But this Tree of Life now ſeems loſt to Man;</p>
+            <p>And ſo he remains under the Curſe of that other Tree, <hi>In the day that thou eateſt thereof, thou ſhalt die.</hi>
+            </p>
+            <p>Which Sentence of the Law is the cauſe of the death of Man, and was the Commence<g ref="char:EOLhyphen"/>ment of the Cuſtom of Death in the World as the Original of it.</p>
+            <p>And by the Force of this Law Death hath kept the poſſeſſion (before admitted) to this day.</p>
+            <p>For tho this Law was delivered to <hi>Adam</hi> be<g ref="char:EOLhyphen"/>fore <hi>Eve</hi> was made, and in it there are no ex<g ref="char:EOLhyphen"/>preſs words to bind her, or the Iſſue begot<g ref="char:EOLhyphen"/>ten between them; yet it did not only bind
+<pb n="17" facs="tcp:152181:9"/> him and her, and all their Deſcendants, but even the whole Creation under them: for tho this Law was delivered to <hi>Adam</hi> in his ſin<g ref="char:EOLhyphen"/>gle Perſon, yet it was ſo delivered to him in his Politick Capacity as Head of the whole Creation, and the great Truſtee for them all.</p>
+            <p>And thus <hi>Adam</hi> underſtood it, for he had told it <hi>Eve</hi> (as a thing that concerned her as well as himſelf) of which ſhe took notice, and repeated it to the Serpent in the Dialogue be<g ref="char:EOLhyphen"/>tween them.</p>
+            <p>And as <hi>Adam</hi> thus underſtood it, ſo God de<g ref="char:EOLhyphen"/>clared it immediately after the Fall.</p>
+            <p>
+               <hi>To the Woman he ſaid, I will greatly multiply thy Sorrow,</hi> &amp;c.</p>
+            <p>
+               <hi>To the Man he ſaid, Curſed be the Ground for thy ſake,</hi> &amp;c.</p>
+            <p>And God having thus explained himſelf, he immediately commanded Nature to turn upon Man, to execute the Sentence of this Curſe upon them.</p>
+            <p>And under this Command, Nature hath acted ever ſince, which is an Inverſion of it from its original Inſtitution.</p>
+            <p>Nature was formed by a Law ſuperior to it (which is called the Law of the Creation) <hi>Let there be Light, and there was Light.</hi>
+            </p>
+            <p>And being thus made by a Law, God im<g ref="char:EOLhyphen"/>mediately gave it another Law to act by; by which the Earth watered it ſelf, and brought forth Fruit without the labour of Man or Beaſt.</p>
+            <pb n="18" facs="tcp:152181:10"/>
+            <p>But upon Man's delinquency, God ſuper<g ref="char:EOLhyphen"/>ſeded this courſe of Nature, and put it under a<g ref="char:EOLhyphen"/>nother Law, whereby the whole Creation ſtands inverted at this day.</p>
+            <p>So that all theſe common Events which now happen in the World, tho they are be<g ref="char:EOLhyphen"/>come natural according to Nature thus inverted, yet from the beginning they were not ſo.</p>
+            <p>Death was a ſtrange word to <hi>Adam;</hi> for tho he did underſtand it to be a determination of his Being, yet he did not apprehend in what manner his Being ſhould be ſo determin<g ref="char:EOLhyphen"/>ed, nor how he ſhould make his Exit out of the World, having never ſeen one Example of it.</p>
+            <p>And this made the Sentence of Death more terrible to them, becauſe they did not know what God was going to pronounce againſt them.</p>
+            <p>But God finding the Man and his Wife hid among the Trees of the Garden for fear of him, he hinted to them their Redemption (by the Seed of the Woman) in the cloſe of the Curſe againſt the Serpent, before ever he came to denounce their own Sentence againſt them; which ſupported them under the ter<g ref="char:EOLhyphen"/>ror of it, and without which they had ſunk down dead in the place.</p>
+            <p>And thus Chriſt (as he ſaith) is the Life of the World, tho they don't know it.</p>
+            <pb n="19" facs="tcp:152181:10"/>
+            <p>For had it not been for this, God had exe<g ref="char:EOLhyphen"/>cuted Man in the Fact.</p>
+            <p>
+               <hi>Adam</hi> by this very act of Delinquency, and the Sentence upon it, ſtood attainted, and be<g ref="char:EOLhyphen"/>came a dead Man in Law, tho he was not exe<g ref="char:EOLhyphen"/>cuted till about nine hundred years afterwards; and during that Interval, he begat Sons and Daughters, and performed all other Acts of Life.</p>
+            <p>From which it is obſervable, that the change of a Man's State (tho it doth at one inſtant aſcertain his Fate one way or other) yet it doth not work ſo ſudden a change in his Per<g ref="char:EOLhyphen"/>ſon or Affections.</p>
+            <p>
+               <hi>Eve</hi> after her eating, and <hi>Adam</hi> before his eating of the Forbidden Tree, were in two different States from one another, ſhe in the State of Death, and he in the State of Life; and yet this did not preſently change their Af<g ref="char:EOLhyphen"/>fections one to another.</p>
+            <p>Which put the Caſe much harder upon him than it was before upon her.</p>
+            <p>For ſhe by her very Creation was made ſo much a part of himſelf (from his paſſion of Love to her) that he could not be happy while ſhe was miſerable: and hence perhaps we read of no other Argument ſhe uſed to him for breach of the Command, than <hi>that ſhe had done it before him.</hi>
+            </p>
+            <p>The violation of her Happineſs did ſo much affect him by a ſympathy with her, that all
+<pb n="20" facs="tcp:152181:11"/> his other Enjoyments could do him no good.</p>
+            <p>And therefore ſince he thought it impoſſible for her to return into the ſame State with him, rather than be parted from her, he choſe to hazard himſelf in the ſame State with her.</p>
+            <p>The Philoſophers ſay, Man and Woman are one Creature in two pieces.</p>
+            <p>And as ſuch God gave them one common Name before he made them, Let us make <hi>Man,</hi> and let <hi>Them</hi> have dominion, <hi>&amp;c.</hi>
+            </p>
+            <p>And this is ſtill retained as a common Name to them both in all Languages.</p>
+            <p>But their Offence was at laſt joint and ſe<g ref="char:EOLhyphen"/>veral.</p>
+            <p>Now the Articles of the Curſe denounced againſt thoſe our common Anceſtors for this their Offence is <hi>the Law of Death,</hi> and is the State under which the World ſtands at this day, and from which we can never be re<g ref="char:EOLhyphen"/>deemed, but by being diſcharged from this Law.</p>
+            <p>The falling of which Curſe upon Man<g ref="char:EOLhyphen"/>kind, as deſcendants from thoſe our common Anceſtors, is the Foundation of all the Laws of Man in the like caſe.</p>
+            <p>For that Parents have power by their own Acts to bind their Iſſue before they are born, is the Law of all the World, becauſe every Man hath his Heirs in him. And thus <hi>Levi</hi> is ſaid to have been in the Loyns of his great
+<pb n="21" facs="tcp:152181:11"/> Grandfather, and to have paid Tithes in him four Generations before he was born.</p>
+            <p>And thus all the Deſcendants of <hi>Eſau</hi> and <hi>Jacob</hi> are ſaid to be in their Mother's Womb, while they were: Two Nations ſtrugled in her Womb.</p>
+            <p>And that the Birth of every Man within any Country doth ſubject him to the Laws of that Country, is the Law of all Nations.</p>
+            <p>And without theſe Conceſſions there could be no Laws, becauſe elſe every Man muſt have a particular Law delivered him for himſelf: which being a publick Inconvenience, cannot be admitted in the nature of Laws.</p>
+            <p>And thus this Law of Death fell upon Chriſt himſelf, as a Deſcendant from the ſame common Anceſtors.</p>
+            <p>Chriſt had two deſcents in his Birth:</p>
+            <p>One was his natural deſcent from the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> his real Mother.</p>
+            <p>The other his legal deſcent from <hi>Joſeph</hi> his ſuppoſed Father.</p>
+            <p>But in his Genealogy ſet down by two Evan<g ref="char:EOLhyphen"/>geliſts, this legal deſcent by <hi>Joſeph</hi> is only counted upon, without taking any notice of his deſcent by his Mother's ſide.</p>
+            <p>Becauſe this deſcent by <hi>Joſeph</hi> was his legi<g ref="char:EOLhyphen"/>timate deſcent according to that Law, which makes all the Iſſue of the Woman born dur<g ref="char:EOLhyphen"/>ing the Coverture, to be the Iſſue of the Huſ<g ref="char:EOLhyphen"/>band; although it be notoriouſly known,
+<pb n="22" facs="tcp:152181:12"/> that in Fact it were begotten by another.</p>
+            <p>And this is our Law at this day, altho the Iſſue be born but one day after the Eſpou<g ref="char:EOLhyphen"/>ſals.</p>
+            <p>And the Canon Law is much ſtronger; for that makes the Iſſue born of the Woman be<g ref="char:EOLhyphen"/>fore Marriage (let them be begotten by whom ſhe will, unleſs by a former Husband in Wedlock) to be the Iſſue of the Husband to whom ſhe is afterward married.</p>
+            <p>And therefore Chriſt having ſuch a Father<g ref="char:EOLhyphen"/>in-Law as this, his deſcent muſt be accounted from his Father-in-Law, and not from his Mother, becauſe all legal deſcents are accoun<g ref="char:EOLhyphen"/>ted from the Father, and not from the Mo<g ref="char:EOLhyphen"/>ther.</p>
+            <p>When the eleven Tribes were polled in the Wilderneſs of <hi>Sinai, they gave account of their Pedigrees after their Families, by the Houſe of their Fathers,</hi> without taking any notice of their deſcent by their Mothers ſide. And ſo did they of the Tribe of <hi>Levi,</hi> who were num<g ref="char:EOLhyphen"/>bered after them.</p>
+            <p>Wherefore, I ſay, the buſineſs of the Evan<g ref="char:EOLhyphen"/>geliſts being to ſhew ſuch a deſcent in Chriſt, by which the Curſe of the Law might fall upon him in his Birth, they muſt ſhew a de<g ref="char:EOLhyphen"/>ſcent upon which the Law might operate.</p>
+            <p>For as this is a Law, all Proceedings there<g ref="char:EOLhyphen"/>upon are according to Law.</p>
+            <pb n="23" facs="tcp:152181:12"/>
+            <p>And hence it is obſervable, that his being born of a Virgin eſpouſed, and not of a ſingle Virgin, was not accidental, but deſigned: For as it was neceſſary that he ſhould be born of a pure Virgin, to preſerve his Nature from the defilements of the Humanity, ſo it was neceſſary that he ſhould be born of a Virgin eſpouſed, to derive upon himſelf the Curſe of the Law by a legal Father.</p>
+            <p>For which purpoſe it was neceſſary that the Birth of Chriſt ſhould (in the terms of the Evangeliſt) be on this wiſe, and no other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>And as this peculiar Genealogy of Chriſt was not accidental, but deſigned, the quality of his deſcent was ſo too.</p>
+            <p>There are mutual courteſies and civilities uſed amongſt Equals; but he that accepteth Riches or Honour from another, doth thereby acknowledg him to be his Superior; <hi>for the leſſer is bleſſed of the greater.</hi>
+            </p>
+            <p>Wherefore when <hi>Abraham</hi> had reſcued the Plunder taken from the <hi>Sodomites,</hi> he permit<g ref="char:EOLhyphen"/>ted the young Men that fought with him, to eat and drink of the Proviſions, and his three Confederates that aſſiſted him to take their Portion of the Goods; but for his own part, taking himſelf to be as good a Man as the then King of <hi>Sodom,</hi> he ſcorned to accept from him the value of a Shoe Latchet, <hi>leſt it ſhould be ſaid he made</hi> Abraham <hi>rich.</hi>
+            </p>
+            <pb n="24" facs="tcp:152181:13"/>
+            <p>So tho Chriſt in the days of his fleſh be<g ref="char:EOLhyphen"/>haved himſelf with all the freedom of Con<g ref="char:EOLhyphen"/>verſation.</p>
+            <p>
+               <hi>The Son of Man came eating and drinking;</hi> and when little <hi>Zacheus</hi> climb'd up a Tree to ſee him, he frankly invited himſelf to dine with him.</p>
+            <p>Yet knowing himſelf to be the Son of God, he neither could nor would receive any Dig<g ref="char:EOLhyphen"/>nity from Man; <hi>I receive not Honour from Man.</hi>
+            </p>
+            <p>And thus knowing his real deſcent to be from Above, <hi>I am from Above;</hi> it was equal to him to be reputed the Son of a King or a Carpenter.</p>
+            <p>But he rather choſe the latter, becauſe be<g ref="char:EOLhyphen"/>ing himſelf a King, <hi>I am a King,</hi> he would not accept his immediate deſcent from ano<g ref="char:EOLhyphen"/>ther King, leſt it ſhould be ſaid that <hi>that made him King.</hi>
+            </p>
+            <p>
+               <hi>David</hi> often vaunted of him as his deſcen<g ref="char:EOLhyphen"/>dant, to come twice fourteen Generations be<g ref="char:EOLhyphen"/>fore he was born.</p>
+            <p>And <hi>Abraham</hi> rejoiced to ſee his day.</p>
+            <p>But he was ſo far from valuing himſelf up<g ref="char:EOLhyphen"/>on theſe great Anceſtors, one a King, and the other a King's Fellow, that he rather ſeemed to diſown them; <hi>Before</hi> Abraham <hi>was, I am. If</hi> David <hi>called me Lord, how am I his Son?</hi>
+            </p>
+            <p>He made no other uſe of his Royal Pedigree, but to convey by them a corrupted deſcent
+<pb n="25" facs="tcp:152181:13"/> from <hi>Adam;</hi> who ſtanding attainted of Trea<g ref="char:EOLhyphen"/>ſon againſt Heaven, Chriſt himſelf under this Attainder was baptized in his own Blood to reſtore the reſt of Mankind into the glorious Liberty of the Sons of God: For Chriſt him<g ref="char:EOLhyphen"/>ſelf, thus falling under the Law, became as guilty of the breach of it as any common Man (notwithſtanding his perſonal Holi<g ref="char:EOLhyphen"/>neſs.)</p>
+            <p>For we are none of us guilty of this Sin in Fact, but only by conſtruction of Law in the Article of our Birth, which falls upon us be<g ref="char:EOLhyphen"/>fore we know Good or Evil; and ſo it did upon the Humanity of Chriſt.</p>
+            <p>And this Law thus falling upon him, was as juſt a cauſe of his Death as it is of ours.</p>
+            <p>Nor can his Death be aſſigned to any other cauſe but this.</p>
+            <p>This Death of Chriſt was the moſt unlike<g ref="char:EOLhyphen"/>ly thing that ever happen'd in the World: His Diſciples could not believe it till they ſaw it.</p>
+            <p>He did not die of Age, being about thirty three at his Death.</p>
+            <p>He did not die of natural Infirmity, having the power of Health, by which he preſerved his own, and reſtored others.</p>
+            <p>He did not die in Battel; <hi>For his Kingdom was not of this World, elſe would his Servants have fought that he ſhould not have been deli<g ref="char:EOLhyphen"/>vered unto the</hi> Jews.</p>
+            <pb n="26" facs="tcp:152181:14"/>
+            <p>He did not die by any ſudden Accident, <hi>the Angels having charge over him, leſt he ſhould daſh his foot againſt a ſtone.</hi>
+            </p>
+            <p>He did not murder himſelf, but made all his Efforts to eſcape, the greateſt of which was his asking his Life of God.</p>
+            <p>Nor was he murdered by others, becauſe there was a form of Law in doing it.</p>
+            <p>And yet he was not executed by Law, be<g ref="char:EOLhyphen"/>cauſe there was no Law then in being by which he could be executed for the Crime of which he ſtood accuſed.</p>
+            <p>The time that Chriſt lived in the World, was after the deſtruction of the <hi>Jewiſh</hi> Monar<g ref="char:EOLhyphen"/>chy, and during the continuance of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Conqueſt, under which the <hi>Jewiſh</hi> Na<g ref="char:EOLhyphen"/>tion being then Subjects, were permitted the exerciſe of their Religion and Prieſthood, but not of the Civil Power which they had while their Monarchy was in being.</p>
+            <p>So that if a <hi>Jew</hi> had committed any Of<g ref="char:EOLhyphen"/>fence againſt the <hi>Jewiſh</hi> Law, which was not an Offence againſt the <hi>Roman</hi> Law, he was liable to no other Puniſhment than the Cen<g ref="char:EOLhyphen"/>ſure of the <hi>Jewiſh</hi> Church.</p>
+            <p>And this was the Caſe of Chriſt.</p>
+            <p>He being of the <hi>Jewiſh</hi> Nation, was ac<g ref="char:EOLhyphen"/>cuſed of Blaſphemy, which was Death by their Law; but being not ſo by the <hi>Roman</hi> Law, the Prieſts were at a loſs how to get a formal Sentence againſt him.</p>
+            <pb n="27" facs="tcp:152181:14"/>
+            <p>And therefore when <hi>Pilate</hi> firſt demanded of them his Accuſation, they gave for Anſwer, <hi>Were he not a Malefactor, we would not have delivered him unto thee;</hi> expecting to have had him condemned upon their Honour: having indeed brought him in ſuch a pickle as would have half hang'd any Man upon the view.</p>
+            <p>But we know <hi>Pilate</hi>'s Reply to that, and to their Accuſation when they offer'd it.</p>
+            <p>And conſidering (in the ſequel of the Hi<g ref="char:EOLhyphen"/>ſtory) the Warning ſent to <hi>Pilate</hi> by a Meſ<g ref="char:EOLhyphen"/>ſage from Heaven, his own Inclinations to obey it, and the former Affections of the Peo<g ref="char:EOLhyphen"/>ple towards him, who had their Election to re<g ref="char:EOLhyphen"/>deem him againſt a common Rogue, it ſeem'd impoſſible that he ſhould have been executed.</p>
+            <p>Who can aſſign the Cauſe why <hi>Herod</hi> and <hi>Pilate, Jews</hi> and <hi>Romans,</hi> Prieſts and People (who were each at odds with one another in other matters) ſhould all fall in together to condemn innocent Blood?</p>
+            <p>That the moſt exact Worſhipper of God ſhould be accuſed for a Blaſphemer!</p>
+            <p>That he that refuſed to be a King, ſhould be arraign'd for a Traitor!</p>
+            <p>Such was the Death of Chriſt, without a Precedent, without a Name, without a Rea<g ref="char:EOLhyphen"/>ſon, without a Cauſe. <hi>They hated me without a Cauſe.</hi>
+            </p>
+            <p>But they were all againſt him, becauſe God was againſt him.</p>
+            <pb n="28" facs="tcp:152181:15"/>
+            <p>And this he told <hi>Pilate,</hi> without which he declared he would not have ſurrender'd him<g ref="char:EOLhyphen"/>ſelf. <hi>Wot ye not, that I can even now call to my Heavenly Father, and he ſhall ſend me more than twelve Legions of Angels; but how then ſhall the Scripture be fulfilled?</hi>
+            </p>
+            <p>His Hands were bound, and his Feet were in the Stocks, that he was not at liberty to defend himſelf; being fallen under that Law which neceſſitated him to die.</p>
+            <p>And thus his Death is exclaim'd as equally miraculous with his Birth. He was wonder<g ref="char:EOLhyphen"/>ful in his Death, like <hi>Moſes: And who can de<g ref="char:EOLhyphen"/>clare his Generation?</hi>
+            </p>
+            <p>All other Cauſes of Death are but ſecond Cauſes, which may or may not happen, and againſt which a Man may make his defence. But this general Law of Death is a Flail, a<g ref="char:EOLhyphen"/>gainſt which there is no defence; for if one Execution don't reach us, another will; they that remain of the Peſtilence ſhall the Sword devour, and they that eſcape the Sword ſhall be conſum'd with Famine.</p>
+            <p>Whatever is the immediate Cauſe is but the Executioner to the firſt Command.</p>
+            <p>It was <hi>Joab</hi> that ſet <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> in the Front of the Battel, and the <hi>Ammonites</hi> that ſlew him; but it was <hi>David</hi> that kill'd him. <hi>Thou haſt killed</hi> Uriah <hi>the</hi> Hittite, <hi>and haſt ſlain him with the Sword of the Children of</hi> Ammon.</p>
+            <pb n="29" facs="tcp:152181:15"/>
+            <p>And having thus ſhewn how this Law (which was the Commencement of the Poſ<g ref="char:EOLhyphen"/>ſeſſion of Death over the World) did de<g ref="char:EOLhyphen"/>ſcend and fall upon Chriſt, and was the cauſe of his Death:</p>
+            <p>It is next incumbent upon me to ſhew,</p>
+            <p>That this Law is taken away by his Death, and conſequently that the long Poſſeſſion of Death over the World can be no longer a Title againſt Life.</p>
+            <p>But when I ſay this Law is taken away, I don't mean that the words of it are taken away, for they remain with us to this day, and being matter of Record muſt remain for ever.</p>
+            <p>But that it is ſatisfied by other matter of Record, by which the force of it is gone.</p>
+            <p>And I call that Law taken away which is ſatisfied.</p>
+            <p>Law ſatisfied is no Law; as a Debt ſatisfied is no Debt.</p>
+            <p>Now the ſpecifick Demand of the Law was Death:</p>
+            <p>And the Death of a Man:</p>
+            <p>And the Death of Man made under the Law.</p>
+            <p>And therefore Chriſt, to qualify himſelf for this Undertaking, became Man in the man<g ref="char:EOLhyphen"/>ner and form beforementioned; for had he aſſumed the Human Nature by any other en<g ref="char:EOLhyphen"/>trance into it, he had not come under the
+<pb n="30" facs="tcp:152181:16"/> Law, and therefore could not have been put to anſwer it: <hi>For what the Law ſays, it ſays to them that are under it.</hi>
+            </p>
+            <p>And hence the Genealogy of Chriſt is a fundamental part of eternal Life.</p>
+            <p>For Chriſt had viſited the World once be<g ref="char:EOLhyphen"/>fore under the Name of <hi>Melchiſedeck;</hi> but not then making his entrance by a Father or Mo<g ref="char:EOLhyphen"/>ther, but aſſuming the Humanity immediate<g ref="char:EOLhyphen"/>ly (like the appearances of Angels) the Law could not reach him for want of a legal Genea<g ref="char:EOLhyphen"/>logy from <hi>Adam</hi> by which it might attaint him, and therefore he then returned to Hea<g ref="char:EOLhyphen"/>ven without hurt (as ſeveral appearances of Angels in the forms of Men had done before him.)</p>
+            <p>But in his coming in the Fleſh purſuant to this Covenant of Eternal Life, <hi>He took not on him the Nature of Angels, but the Seed of</hi> Abraham.</p>
+            <p>And having thus qualified himſelf to be a Subject to the Law, he as ſuch did ſuffer un<g ref="char:EOLhyphen"/>der it by his Death, by which he performed the literal Sentence of the Law, <hi>In the day that thou eateſt thereof thou ſhalt die.</hi>
+            </p>
+            <p>Which yet he might have done, and not have given the Law Satisfaction; for Millions of Men before him had undergone the literal Sentence of the Law by dying under it, and yet the Law was nevertheleſs diſſatisfied with them and others.</p>
+            <pb n="31" facs="tcp:152181:16"/>
+            <p>But he declared, <hi>It is finiſhed,</hi> before he gave up the Ghoſt.</p>
+            <p>And this is the difference between his Death and ours: Man dies under the Execu<g ref="char:EOLhyphen"/>tion of the Law, before he can give Satisfacti<g ref="char:EOLhyphen"/>on to the Juſtice of it; but this Son of Man gave Satisfaction to the Juſtice of the Law before the extremity of the Execution could reach him.</p>
+            <p>And this he did by the dignity of his Per<g ref="char:EOLhyphen"/>ſon: For this Law was not ſuch a Civil Con<g ref="char:EOLhyphen"/>tract, that the Breach of it could be ſatisfied with Mony.</p>
+            <p>But it was a Law of Honour, the Breach whereof required perſonal Satisfaction for the moſt impudent Affront, and the higheſt Act of Ingratitude to God.</p>
+            <p>Men charge God as a Humoriſt, for con<g ref="char:EOLhyphen"/>demning the whole Race of Mankind for ſo ſmall an Offence as eating a little forbidden Fruit.</p>
+            <p>But this is their ignorance of the Laws of Honour and Gratitude; by which the ſlighter the thing demanded is, the greater the affront in refuſing it.</p>
+            <p>Had <hi>David</hi> asked the Inheritance of <hi>Nabal</hi>'s Eſtate, he had render'd himſelf as odious as <hi>Ahab</hi> did when he demanded <hi>Naboth</hi>'s Vine<g ref="char:EOLhyphen"/>yard. But his Requeſt being only for ſome ordinary Proviſion (in common with Sheep<g ref="char:EOLhyphen"/>ſhearers) the refuſal of it render'd <hi>Nabal</hi> a Churl not fit to live.</p>
+            <pb n="32" facs="tcp:152181:17"/>
+            <p>So <hi>Naaman</hi>'s Servant ſaid to his Maſter, <hi>Had the Prophet bid thee do ſome great thing, wouldſt thou not have done it? How much more when he only ſaith, Waſh and be clean?</hi>
+            </p>
+            <p>Man by his very Creation enter'd into the Labours of God himſelf, without one thought of his own, and at the firſt moment of his be<g ref="char:EOLhyphen"/>ing became Lord of the Univerſe, which was adapted to his Enjoyments and Pleaſures.</p>
+            <p>And God left him in poſſeſſion of it all, up<g ref="char:EOLhyphen"/>on his parol of Honour only, that he would acknowledg it to be held of God; and as the Token of this Tenure, that he would only forbear one Common Tree (for it ſeems to be no more till it became otherwiſe by his eating of it.)</p>
+            <p>Withal telling him, that if he did eat of it, his Life ſhould go for it. Not that God thought his Life ſatisfaction, but it was all the Satisfaction God could have of him; it was rather a Reſentment of the Affront, than any Satisfaction for it.</p>
+            <p>By which God ſhew'd, that if Man had had more than his Life to give, God would have had it of him.</p>
+            <p>And therefore to ſignify the height of this Reſentment, God raiſes Man from the Dead to demand further Satisfaction of him.</p>
+            <p>Death is a commitment to the Priſon of the Grave till the Judgment of the great Day; and then the grand <hi>Habeas Corpus</hi> will iſſue, <hi>to
+<pb n="33" facs="tcp:152181:17"/> the Earth, and to the Sea,</hi> to give up their Dead; to remove the Bodies, with the cauſe of their Commitment: And as theſe Cauſes ſhall appear, they ſhall either be releaſed, or elſe ſentenced to the common Goal of Hell, there to remain until Satisfaction.</p>
+            <p>Such was the Reſentment of deſpiſed Love; and yet this was a Reſentment without Ma<g ref="char:EOLhyphen"/>lice.</p>
+            <p>For as God maintained his Reſentment un<g ref="char:EOLhyphen"/>der all his Love, ſo he maintained his Love under all his Reſentment.</p>
+            <p>For his Love being a Love of Kindneſs flowing from the generoſity of his own Na<g ref="char:EOLhyphen"/>ture, could not be diminiſhed by any Art of Man.</p>
+            <p>And yet his Honour being concerned to maintain the Truth of his Word, he could not falſify that to gratify his own Affection.</p>
+            <p>And thus he bore the Paſſion of his own Law, till he had found out a Salvo for his Honour by <hi>that Son of Man</hi> who gave him Satisfaction all at once by the dignity of his Perſon.</p>
+            <p>Perſonal Satisfactions by the Laws of Ho<g ref="char:EOLhyphen"/>nour are eſteemed ſufficient or not ſufficient, according to the equality or inequality be<g ref="char:EOLhyphen"/>tween the Perſons who give and take the Affront.</p>
+            <p>Therefore God to vindicate his Honour thus affronted, was oblig'd to find out a Perſon
+<pb n="34" facs="tcp:152181:18"/> (for that purpoſe) equal to himſelf, who was affronted.</p>
+            <p>The invention of which is called <hi>the mani<g ref="char:EOLhyphen"/>fold Wiſdom of God.</hi>
+            </p>
+            <p>The Invention it ſelf being the higheſt Expreſſion of the deepeſt Love.</p>
+            <p>And the Execution of this Invention (in the Death of Chriſt) being the deepeſt Re<g ref="char:EOLhyphen"/>ſentment of the higheſt Affront:</p>
+            <p>Which Death of Chriſt did nevertheleſs ſurmount all the Demands made upon him.</p>
+            <p>For as much as his Perſon was ſuperiour in dignity to the Human Nature, ſo much the Satisfaction by his Death ſurmounted the Offence of Man.</p>
+            <p>And thus (I ſay) this Law being fulfilled and over ſatisfied by Chriſt in his Death, was and is taken away, ſo that there was no ſuch Law in being againſt him after his Reſur<g ref="char:EOLhyphen"/>rection.</p>
+            <p>He was made under the Law by his Birth, but he did not ariſe under it, having taken it away by his Death.</p>
+            <p>And having thus taken away the Law by his Death, the Life regained by him in his Reſurrection was <hi>by Conqueſt.</hi>
+            </p>
+            <p>He met with no quarter from God nor Man: God would not ſave him from Death tho he ask'd him, and therefore he reſcued himſelf from it.</p>
+            <pb n="35" facs="tcp:152181:18"/>
+            <p>He pray'd to be preſerv'd from Death be<g ref="char:EOLhyphen"/>fore it came upon him, but he craved no Aid againſt the Power of it towards his Reſur<g ref="char:EOLhyphen"/>rection.</p>
+            <p>
+               <hi>Deſtroy this Body, and I will raiſe it in three days.</hi>
+            </p>
+            <p>Die he knew he muſt; but riſe he knew he could.</p>
+            <p>And the reaſon of his Reſurrection was, becauſe Death could hold him no longer: <hi>For it was not poſſible that he ſhould be held any longer of it.</hi>
+            </p>
+            <p>And this he did, not in contradiction to the Will of God: For God having executed the Law upon him by his Death, he did not op<g ref="char:EOLhyphen"/>poſe him in his Reſurrection.</p>
+            <p>And therefore tho he could not come down from the Croſs, becauſe the Will of God was then againſt him, yet he could ariſe from the dead, becauſe the Will of God did not then oppoſe him.</p>
+            <p>And ſo God leaving him to himſelf, he con<g ref="char:EOLhyphen"/>quered Death.</p>
+            <p>By which, according to all the Laws of Conqueſt, the Law of Death is taken away.</p>
+            <p>For by the Laws of Conqueſt, the Laws of the conquered are <hi>ipſo facto</hi> taken away by the very Conqueſt: and all Records and Writings that remain of them are of no more force than waſte Paper.</p>
+            <pb n="36" facs="tcp:152181:19"/>
+            <p>The Law of Death (as I have ſaid) re<g ref="char:EOLhyphen"/>mains in words, and will remain for ever; but it had no more force againſt Chriſt after his Reſurrection, than if it had never been made.</p>
+            <p>And from hence the Title of Chriſt to Eternal Life is become abſolute.</p>
+            <p>By abſolute, I mean diſcharged from all Te<g ref="char:EOLhyphen"/>nure or Condition, and conſequently from all Forfeiture.</p>
+            <p>And this is the Title of Conquerors, who hold of none but themſelves, becauſe they re<g ref="char:EOLhyphen"/>ceive their Right from none but their Arms.</p>
+            <p>And is in oppoſition to the firſt Title of Life delivered to <hi>Adam,</hi> which was held by Tenure, as being received from God; and be<g ref="char:EOLhyphen"/>ing ſo held, it became forfeited to him of whom it was held, according to the Laws of Tenure.</p>
+            <p>But Chriſt receiving his Life in his Reſur<g ref="char:EOLhyphen"/>rection from none but himſelf; <hi>I lay down my Life of my ſelf, and I take it up again;</hi> it is now his own without Tenure, and therefore is ab<g ref="char:EOLhyphen"/>ſolute, and cannot be forfeited.</p>
+            <p>And as his Title to Life is thus become ab<g ref="char:EOLhyphen"/>ſolute by Conqueſt:</p>
+            <p>So the duration of it is become Eternal, by being annexed to the Perſon of the God<g ref="char:EOLhyphen"/>head.</p>
+            <p>A Man may have an abſolute Title, and yet that Title may be but for a time.</p>
+            <pb n="37" facs="tcp:152181:19"/>
+            <p>Life is called Temporal or Eternal accord<g ref="char:EOLhyphen"/>ing to the Perſons or Things to which it is an<g ref="char:EOLhyphen"/>nexed or united.</p>
+            <p>The Life of Vegetables and Animals is called a Temporal Life, becauſe it is annexed to things which have a Temporal Duration.</p>
+            <p>And thus, according to our Laws, whatever is annexed to the Perſon of a Man, is adjudged to have continuance during his Life.</p>
+            <p>So that if Land be convey'd to a Man inde<g ref="char:EOLhyphen"/>finitely, without naming any time how long he ſhall hold it, he has (without more ſaying) an Eſtate for Life, becauſe his Eſtate is an<g ref="char:EOLhyphen"/>nexed to his Perſon, which is ſaid to have con<g ref="char:EOLhyphen"/>tinuance for his Life.</p>
+            <p>And hence the Life of Chriſt regained by the Conqueſt of his Reſurrection, being an<g ref="char:EOLhyphen"/>nexed to the Perſon of his Godhead, which is eternal, doth thereby become Eternal Life; for <hi>the Life of God</hi> and <hi>Eternal Life</hi> are ſyno<g ref="char:EOLhyphen"/>nymous Terms.</p>
+            <p>And thus Chriſt ever ſince his Reſurrection did and doth ſtand ſeized of an abſolute and indefezible Eſtate of Eternal Life, with<g ref="char:EOLhyphen"/>out any Tenure or Condition, or other mat<g ref="char:EOLhyphen"/>ter or thing to change or determine it for ever.</p>
+            <p>And I had reaſon thus to aſſert the Title of Chriſt at large,</p>
+            <p>Becauſe this is the Title by and under which I am going to affirm my Argument,
+<pb n="38" facs="tcp:152181:20"/> and to claim Eternal Life for my ſelf and all the World.</p>
+            <p>Had Chriſt thus become Man, and died and roſe again, all voluntarily, to try an Experi<g ref="char:EOLhyphen"/>ment, he had only ſaved his own Life, and left all the World to ſhift for themſelves.</p>
+            <p>But this would have been Knight-Errantry in tempting God, againſt which he hath ſuffi<g ref="char:EOLhyphen"/>ciently declared himſelf.</p>
+            <p>And yet when I ſay he did not do it volun<g ref="char:EOLhyphen"/>tarily, I don't mean that he did it unwil<g ref="char:EOLhyphen"/>lingly:</p>
+            <p>For as he did it with all frankneſs and ge<g ref="char:EOLhyphen"/>neroſity of his Will, <hi>I lay down my Life of my ſelf,</hi> ſo he did it with the higheſt affection of Love to Mankind. <hi>Greater Love than this hath no Man, that he lay down his Life for his Friend.</hi>
+            </p>
+            <p>But I mean, he did not do it purely volun<g ref="char:EOLhyphen"/>tarily, without a neceſſity of doing it; and a Conſideration for it.</p>
+            <p>Firſt then;</p>
+            <p>There was a Neceſſity upon God himſelf.</p>
+            <p>God told <hi>Adam,</hi> that <hi>if he did eat, he ſhould die.</hi>
+            </p>
+            <p>The Devil told <hi>Eve,</hi> that <hi>they might eat, and not die.</hi>
+            </p>
+            <p>And theſe were the firſt words ſpoken to Man by God or the Devil; upon the truth or falſhood whereof the very Beings of them both were to depend for ever.</p>
+            <pb n="39" facs="tcp:152181:20"/>
+            <p>For which ever of them could maintain the Truth of his Word againſt the other, he muſt have been God, and the other the Devil.</p>
+            <p>And therefore God having turned the Lie upon the Devil, he is from thence called a Liar from the beginning, and the Father of it, and will never be believed again for ever.</p>
+            <p>God could not have diſpenſed with his Word, without complementing the Devil with his Godhead, in taking the Lie upon himſelf; and this he could not do: <hi>For God cannot lie</hi> without undeifying himſelf; and this he can't do, becauſe all his Qualities being of his Eſ<g ref="char:EOLhyphen"/>ſence, he can't change them.</p>
+            <p>That God cannot change, is not a deficien<g ref="char:EOLhyphen"/>cy in his Nature, but the perfection of his Eſ<g ref="char:EOLhyphen"/>ſence, which can be nothing but himſelf.</p>
+            <p>For as it is the happineſs of imperfect Be<g ref="char:EOLhyphen"/>ings to be capable of change, in order to be made better; ſo it is the happineſs of perfect Beings to be incapable of change whereby to be made worſe.</p>
+            <p>Man can lie, becauſe he can't ſpeak Truth; there's nothing that a Man can ſay, but what he can unſay and falſify by the change of his mind, which he can change only becauſe he can't fix it: as a Man that hath a broken Arm can turn it every way, becauſe he can fix it no way.</p>
+            <p>Nothing but an abſolute Power can be abſo<g ref="char:EOLhyphen"/>lute in any thing; therefore Man having no
+<pb n="40" facs="tcp:152181:21"/> abſolute Power, can't abſolutely determine his own Will; every change of which ſub<g ref="char:EOLhyphen"/>jects him to a Lie, either by falſifying his former Reſolutions, or his preſent Inclina<g ref="char:EOLhyphen"/>tions.</p>
+            <p>But God having an abſolute Power to de<g ref="char:EOLhyphen"/>termine his own Will, he could not change it after he had ſo determined it; for what is fix'd can't be changed.</p>
+            <p>Wherefore God could not diſpenſe with the Breach of his Law to pardon it.</p>
+            <p>Which was not for want of Mercy in God, for he hath and doth daily pardon ten thou<g ref="char:EOLhyphen"/>ſand times the Sins committed by Man againſt the moral Law, which ſeem as great Offences as this.</p>
+            <p>Becauſe the moral Law hath in it ſelf a defeazance or condition annexed to it at the time of the firſt delivering of it. <hi>Except ye repent, ye ſhall periſh.</hi>
+            </p>
+            <p>By which this Law may be fulfilled with<g ref="char:EOLhyphen"/>out a performance of it <hi>in ſpecie,</hi> by doing a<g ref="char:EOLhyphen"/>nother thing which is admitted to be done in<g ref="char:EOLhyphen"/>ſtead of it.</p>
+            <p>A defeazance is not the ſame thing with the thing to be defeated, but ſomething collateral to it.</p>
+            <p>And thus Repentance, which is not a perfor<g ref="char:EOLhyphen"/>mance of the Moral Law, is nevertheleſs ac<g ref="char:EOLhyphen"/>cepted inſtead of it.</p>
+            <pb n="41" facs="tcp:152181:21"/>
+            <p>But in this Law delivered to <hi>Adam,</hi> there was no ſuch condition annexed to it at the firſt delivery.</p>
+            <p>The words are abſolute; <hi>In the day that thou eateſt thereof thou ſhalt die,</hi> which leaves no room for Repentance. <hi>Adam</hi> did repent, but he found no place for it, he could not find any words of the Law to which he could ap<g ref="char:EOLhyphen"/>ply his Repentance to do him any good.</p>
+            <p>And when a Deed hath no defeazance or condition annexed to it at the time of the firſt delivery, it can't be added to it afterwards.</p>
+            <p>And hence tho this Law delivered to <hi>Adam,</hi> was at the time of the firſt delivery <hi>a Law of Life and Death,</hi> yet the Law of Life being ended by breach of the Condition, there was then nothing left but the Law of Death, which became abſolute without any condition.</p>
+            <p>And this put God upon a neceſſity of exe<g ref="char:EOLhyphen"/>cuting the Sentence of the Law upon Man <hi>in ſpecie,</hi> or making himſelf a Liar; which he could not do, and therefore the neceſſity upon him was abſolute.</p>
+            <p>Which neceſſity was (all the while) a con<g ref="char:EOLhyphen"/>tradiction to his Nature, which is Love to Man. <hi>God is Love.</hi>
+            </p>
+            <p>And this divided him againſt himſelf, and laid him under a neceſſity of finding out an Invention to reconcile his Truth to his Love, and his Love to his Truth.</p>
+            <pb n="42" facs="tcp:152181:22"/>
+            <p>And this Neceſſity upon God, draw'd a Ne<g ref="char:EOLhyphen"/>ceſſity upon Chriſt to come and execute this Invention, becauſe none could do it but him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Now there being ſuch a Neceſſity for Chriſt's aſſuming the Humane Nature, and dying under it, there was a Covenant made between him and the Father, previous to his coming in the Fleſh, which is called <hi>the Cove<g ref="char:EOLhyphen"/>nant of Eternal Life,</hi> and is the Hiſtory of the Scriptures, altho it be not ſet down altogether in any one place.</p>
+            <p>Rich Metals, and precious Stones, don't lie together in heaps above ground; but being ſo valuable when found, Men think it worth their while to dig down for them in all places where they have any probability of finding them.</p>
+            <p>Then if the way and manner of attaining Eternal Life, doth lie in ſo narrow a Volume as the Bible (<hi>Search the Scriptures, for in them ye think ye have Eternal Life</hi>) ſhall we not think it worth our while to ſearch it through for <hi>that precious Stone with a new Name, which none can read but they that have it?</hi>
+            </p>
+            <p>And this is a more pleaſant Labour than the ſearch for other Jewels; for there we meet with nothing of pleaſure or profit, till we find the very thing we ſeek for. But in mak<g ref="char:EOLhyphen"/>ing this enquiry, we divert our ſelves with knowledg all the way we go.</p>
+            <pb n="43" facs="tcp:152181:22"/>
+            <p>Nor did God think any one Man, or any one Age of the World, worthy to have the whole of this Covenant revealed to them all at once.</p>
+            <p>He was 4000 Years from <hi>Adam</hi> to Chriſt, delivering it in Types and Shadows to 62 Ge<g ref="char:EOLhyphen"/>nerations of Men, who paſſed their Age in that time.</p>
+            <p>But having thus prefaced it <hi>at ſundry times, and in divers manners to our Fathers by the Pro<g ref="char:EOLhyphen"/>phets, he at laſt ſpoke it to us by his Son.</hi>
+            </p>
+            <list>
+               <head>In which theſe parts do appear.</head>
+               <item>1. <hi>The Date.</hi>
+               </item>
+               <item>2. <hi>The Parties.</hi>
+               </item>
+               <item>3. <hi>The Contents and Conſideration.</hi>
+               </item>
+               <item>4. <hi>The Sealing and Execution.</hi>
+               </item>
+               <item>5. <hi>The Witneſſes.</hi>
+               </item>
+               <item>6. <hi>The Ceremony required of Man, whereby to execute it on his part, and take the ad<g ref="char:EOLhyphen"/>vantage of it.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>The Date.</hi> This was before the Founda<g ref="char:EOLhyphen"/>tion of the World.</p>
+            <p>
+               <hi>I was ſet up from everlaſting: Before</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>was, I am. God who created all things by Jeſus Chriſt, the Lamb ſlain before the Founda<g ref="char:EOLhyphen"/>tion of the World.</hi>
+            </p>
+            <p>The priority of which Date prevents any preincumbrance that could be made of Eter<g ref="char:EOLhyphen"/>nal
+<pb n="44" facs="tcp:152181:23"/> Life: which is more than can be ſaid of any Titles amongſt Men.</p>
+            <p n="2">2. <hi>The Parties.</hi> It was between him and the Father.</p>
+            <p>
+               <hi>Lo, I come to do thy Will, O God. In the Volume of the Book it is written of me. I will give thee the Heathen for thy Poſſeſſion, and the utmoſt parts of the Earth for thine Inheritance.</hi>
+            </p>
+            <p>The firſt Text tells us what he came to do, and in purſuance of what Agreement. The other, what he was to have for doing it, and who he was to have it from. Now God be<g ref="char:EOLhyphen"/>ing the undoubted Author of Eternal Life, there can be no hazard in this Title for want of a right Perſon to make the Grant; which is more than can be ſaid of any Titles amongſt Men.</p>
+            <p n="3">3. <hi>The Contents and Conſideration.</hi> That if he became bound, we ſhould be made free. <hi>He gave his Life a Ranſom for many.</hi>
+            </p>
+            <p>Chriſt well knew what Man ſtood bound to under the Law of Death.</p>
+            <p>And did as well know, that if he himſelf ever came under that Law, he muſt thereby become bound to the ſame.</p>
+            <p>And that if he ſhould come under the Law, before he made an agreement previous to it, he ſhould be concluded by the Law to ſuffer under it upon his account, and thereby be in<g ref="char:EOLhyphen"/>capacitated
+<pb n="45" facs="tcp:152181:23"/> to capitulate with God about it.</p>
+            <p>For the Life of a Man attainted (as Chriſt was the firſt moment of his Birth) is forfeited to the Law, and therefore after that he could not have been at liberty to treat with God con<g ref="char:EOLhyphen"/>cerning that Law.</p>
+            <p>And thereupon he would not become charged with this Law till he had made this Covenant: <hi>That we that were before charged with it, might thereby be diſcharged from it.</hi>
+            </p>
+            <p>By which he was to be neither Surety nor Bail for Man.</p>
+            <p>For in both theſe the Principals ſtill remain liable, and the Sureties ſtand only hazarded with them, and have a Remedy over againſt them.</p>
+            <p>Which had been a diſhonourable Engage<g ref="char:EOLhyphen"/>ment for the Dignity of ſo great a Perſon.</p>
+            <p>And therefore he offered himſelf a Ranſom or nothing, to be delivered in exchange for the Captives, whereby he alone ſtood bound.</p>
+            <p>And as ſuch he was accepted.</p>
+            <p>
+               <hi>I have trodden the Wine-preſs alone, and none of all the People with me.</hi>
+            </p>
+            <p>And therefore when he was taken, there was not a Man taken with him. <hi>I am Jeſus of</hi> Nazareth <hi>whom ye ſeek, let theſe therefore go their way.</hi>
+            </p>
+            <p>And this was the higheſt Honour that God could put upon him, to accept him a Ranſom for the whole World.</p>
+            <pb n="46" facs="tcp:152181:24"/>
+            <p>And yet this was not an Honour above his Merit: for as in Debts by Civil Contract, 'tis not the Multitude but the Solvency of the Debtors that makes the Payment; ſo in the Laws of Ranſom, 'tis not the Number but the Dignity of the Perſons that is valued in the Exchange.</p>
+            <p>And hence this Son of Man being more worth than ten thouſands of the people, his Death was a greater Honour to the Law, than if all the World beſides had died under it.</p>
+            <p>And could Man from hence underſtand the force of the Covenant of Eternal Life, he might ſee himſelf diſcharged from Death in the very moment the Law fell upon Chriſt (which was the inſtant of his Birth.)</p>
+            <p>Becauſe Man was to be <hi>ipſo facto</hi> releaſed upon Chriſt's becoming bound.</p>
+            <p>And after that it was no matter to Man whether Chriſt had ever given Satisfaction to God or not; we might have ſaid to God, <hi>Look thou to that.</hi>
+            </p>
+            <p>For God by this Covenant having once ac<g ref="char:EOLhyphen"/>cepted Chriſt for a Ranſom, Man could never after that have been retaken by any Law of Reprizal, altho the Ranſom had eſcaped. As ſoon <hi>as the Ram was caught in the Thicket,</hi> the Sacrifice that before lay bound upon the Altar was let looſe.</p>
+            <p>Not that the coming of Chriſt in the Fleſh was the Satisfaction, but God was thereby ſure of his Satisfaction.</p>
+            <pb n="47" facs="tcp:152181:24"/>
+            <p>For as certain as Chriſt by his Birth be<g ref="char:EOLhyphen"/>came a living Child in fact, ſo certain did he that moment become a dead Man in Law.</p>
+            <p>But yet all that I have hitherto ſaid, doth not amount to inſtate Man into the ſame Title of Eternal Life, which Chriſt had after his Reſurrection.</p>
+            <p>Becauſe a meer Ranſom doth in it ſelf amount to no more than to reſtore us to the ſame Liberty which we had before we were Captive.</p>
+            <p>And then this Ranſom by Chriſt would only have reinſtated Man into that Law of Life conditional, in which <hi>Adam</hi> ſtood before the Fall.</p>
+            <p>But God having found out this <hi>Salvo</hi> for his Honour by that Man Chriſt Jeſus, he did at the ſame time find that this would not only do but over-do all that Man had miſdone.</p>
+            <p>And that this ſuperabundancy might not run in waſte, God did declare that, for this, Man ſhould have eternal Life, abſolute as Chriſt himſelf had it.</p>
+            <p>And hence Eternal Life is called the <hi>Gift of God through our Lord and Saviour Jeſus Chriſt,</hi> over and above our Redemption.</p>
+            <p>So that now by this Covenant of Eternal Life, we are not only ranſomed from that Law under which we fell in <hi>Adam,</hi> but are delivered over into a State and Title which we never had before the Fall, <hi>viz.</hi> that abſo<g ref="char:EOLhyphen"/>lute
+<pb n="48" facs="tcp:152181:25"/> and indefeaſible Eſtate of Eternal Life, in which Chriſt was inſtalled by his Reſurrection from the dead.</p>
+            <p>And this Redemption from one Law, and Deliverance over into another, are both done at the ſame inſtant without any Interval of Time paſſing between them.</p>
+            <p>As in Conveyances amongſt Men the Title veſts and deveſts from one to another, by one and the ſame Act.</p>
+            <p>And hence this Covenant is not called the Covenant of Redemption, but <hi>the Covenant of Eternal Life,</hi> as the moſt worthy Title.</p>
+            <p>And therefore he that takes any thing by this Covenant, muſt take Eternal Life or no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>A Believer is never ſpoken of with a leſs addition than Eternal Life; <hi>He that believeth on the Son of God hath everlaſting Life.</hi>
+            </p>
+            <p>And thus it is in Conveyances among Men; whatever is contain'd in the Deed can't be di<g ref="char:EOLhyphen"/>vided, but muſt paſs altogether by the Execu<g ref="char:EOLhyphen"/>tion of that Deed, (which as to this now ſtands next in order.)</p>
+            <p n="4">4. <hi>The Sealing and Execution;</hi> for let the Contents of a Writing be what it will, it is neither Deed nor Covenant till it is executed.</p>
+            <p>This Covenant of Eternal Life being thus formed in Heaven, was afterwards ſealed and executed by God himſelf according to
+<pb n="49" facs="tcp:152181:25"/> all the Forms and Ceremonies of Titles among Men.</p>
+            <p>For God having eſtabliſh'd Eternal Life by a Law, he hath uſed all the Ceremonies of Law to make a Title to it.</p>
+            <p>Every Law preſcribes its own Ceremonies by which it is to be executed.</p>
+            <p>The Ceremony (as I have ſaid) by which the Law of Death is executed upon Man, is his Birth.</p>
+            <p>The Ceremony by which the <hi>Jews</hi> re<g ref="char:EOLhyphen"/>ceived the Law of <hi>Moſes</hi> was Circumciſion.</p>
+            <p>And the Ceremony by which the Covenant of Eternal Life was executed by God, is the Blood of Chriſt.</p>
+            <p>And now I am come to that Point that hath puzled the whole World.</p>
+            <p>What! <hi>Eat the Fleſh, and drink the Blood of a Man, and be ſaved?</hi>
+            </p>
+            <p>That this Covenant ſhould be ſealed is agreeable to all other Titles amongſt Men.</p>
+            <p>But that it ſhould be ſealed with the Blood of Chriſt, ſeems very peculiar.</p>
+            <p>And yet we ſhall find even this alſo to be moſt ſutable to the common uſe of Seals amongſt Men.</p>
+            <p>We cauſe our Seals to be impreſſed with the moſt memorable Enſigns of Honour that can be aſſigned to our Families, whereby they may be remember'd, every time the Deed is ſhown.</p>
+            <pb n="50" facs="tcp:152181:26"/>
+            <p>And amongſt theſe, we eſteem thoſe moſt honourable which are gain'd in the Field with the loſs or hazard of our Lives.</p>
+            <p>Why then! here's the Son of God thrown down from Heaven in the form of a Man, as a Champion againſt Death and Hell, ſlain in the open field, before the Face of Men and Angels, in the Quarrel and Defence of his Friends.</p>
+            <p>And after that diſplaying himſelf again, with all his Wounds about him: <hi>Reach hither thy Finger, and behold my Hands; and reach hither thy Hand, and thruſt it into my ſide.</hi>
+            </p>
+            <p>Now firſt I challenge the Hero's to ſhow ſuch Scars of Honour as theſe.</p>
+            <p>And then I defy the Heralds to match it, for a Coat of Arms.</p>
+            <p>Such a Champion, and ſuch a Cauſe, ſuch a Combat, and ſuch a Conqueſt.</p>
+            <p>And therefore (of all things in Heaven and Earth) God hath choſen out the Blood of Chriſt to be the Seal of the Covenant of Eter<g ref="char:EOLhyphen"/>nal Life.</p>
+            <p>That as often as Man ſees the Seal of that Covenant, he may remember the fate of that day. <hi>As often as ye do this, do it in remembrance of me.</hi>
+            </p>
+            <p>The place of the execution of this Cove<g ref="char:EOLhyphen"/>nant was upon Earth, which Inſtance hath put me upon many thoughts by the by.</p>
+            <pb n="51" facs="tcp:152181:26"/>
+            <p>The firſt Notion of a God is, that he is equal to himſelf in all his Attributes; and it ſeemeth Blaſphemy in Man of himſelf to ſuppoſe any Inequality in his Maker.</p>
+            <p>But God having owned ſomething which he values himſelf upon more than all the reſt; Man hath thereby leave ſo to conceive of him.</p>
+            <p>Now <hi>he hath magnified his Word above all his Name.</hi> And in that Word he hath bound himſelf by an Oath to perform this Covenant: <hi>Once have I ſworn by my Holineſs, that I will not lie unto</hi> David.</p>
+            <p>And of all parts of this (as well as other Covenants) the Sealing is the greateſt Solem<g ref="char:EOLhyphen"/>nity.</p>
+            <p>This Covenant then being ſealed by God himſelf upon this Globe of Ground,</p>
+            <p>I can't but think that Man is to paſs through his greateſt Change in the ſame place: But I'll ſay no more of that till I have done my Argument.</p>
+            <p n="5">5. <hi>The Witneſſes to the Execution.</hi> And theſe were firſt accidental, and they were the whole World. <hi>The ſound thereof is gone through the whole Earth; for this thing was not done in a Corner.</hi>
+            </p>
+            <p>Secondly, <hi>The direct Witneſs,</hi> and that was himſelf: For <hi>this end was I born, and for this end came I into the World, to bear Witneſs unto the Truth.</hi>
+            </p>
+            <pb n="52" facs="tcp:152181:27"/>
+            <p>For as he did not depend upon the Teſti<g ref="char:EOLhyphen"/>mony of <hi>John</hi> to tell the World who he was, having a greater Teſtimony of his own Works; ſo he doth not depend upon Man to witneſs this Covenant, having atteſted it himſelf in his own Blood.</p>
+            <p>And this is after the manner of Kings, <hi>Witneſs our ſelves,</hi> becauſe they can't have a greater.</p>
+            <p>And like God himſelf, who <hi>ſwears by Him<g ref="char:EOLhyphen"/>ſelf,</hi> becauſe <hi>he can't ſwear by a greater.</hi>
+            </p>
+            <p n="6">6. <hi>The Ceremony by which this Covenant is to be executed by Man.</hi> This Covenant being thus executed by God himſelf, and atteſted in the Blood of Chriſt, ſtands ready to be ex<g ref="char:EOLhyphen"/>ecuted by Man on his part.</p>
+            <p>And this is alſo agreeable to the Forms of Title amongſt Men, who can take no benefit of a Deed but by acceptance of it.</p>
+            <p>We diſtinguiſh our Deeds by two Titles.</p>
+            <p n="1">1ſt. <hi>An Indenture,</hi> in which all the Parties muſt be named.</p>
+            <p n="2">2dly. <hi>A Deed Roll,</hi> in which the Parties need not be named, but are deſcribed by the firſt Preſcription of the Deed: As if the Deed begins, <hi>To all Perſons who ſhall ſubſcribe theſe preſents;</hi> then every one by his Subſcription becomes a Party, to take the benefit of all that is contained in that Deed for the Sub<g ref="char:EOLhyphen"/>ſcribers.</p>
+            <pb n="53" facs="tcp:152181:27"/>
+            <p>Now in this Covenant of Eternal Life the Parties are not named, but every Man is ſo deſcribed that he is at liberty to make himſelf a Party to it.</p>
+            <p>The words of this Preſcripion are,</p>
+            <p n="1">1. Poſitive. <hi>He that eateth my Fleſh, and drinketh my Blood, hath Eternal Life.</hi>
+            </p>
+            <p n="2">2. Negative. <hi>Except ye eat the Eleſh, and drink the Blood of the Son of Man, ye have no Life in you.</hi>
+            </p>
+            <p>Which Preſcription doth not reſpect his Blood as Blood only, but as that Blood is made the Seal of this Covenant. <hi>This Cup is the New Teſtament in my Blood.</hi>
+            </p>
+            <p>We don't ſeal Wax as Wax, but as it is annexed to the Deed, and made the Seal thereof.</p>
+            <p>For the Sealing the ſame piece of Wax at large ſeparate from the Deed, ſignifies nothing.</p>
+            <p>And hence it is not the Wax that ſanctifies the Deed, but the Deed that ſanctifies the Wax.</p>
+            <p>For if Lead or any other malleable Subſtance be annexed to the Deed, and impreſſed with the Seals, it is as effectual as if it were Wax.</p>
+            <p>And hence Chriſt himſelf doth own, that it was the Sanction and Miſſion of God upon him that made him the Redeemer of the World: <hi>Say ye of him whom God hath ſanctified and ſent into the World, that he blaſphemeth, becauſe he ſaith he is the Son of God</hi>—
+<pb n="54" facs="tcp:152181:28"/> 
+               <hi>For him hath God the Father ſealed.</hi>
+            </p>
+            <p>And hence that great Cognomen <hi>Chriſt</hi> is added to his proper Name of <hi>Jeſus.</hi>
+            </p>
+            <p>And thus the Kings of <hi>Iſrael</hi> receiv'd their Sanction by the Anointing of the Prophets.</p>
+            <p>The diſtinction between things Holy and Common, Sacred and Civil, is the Appoint<g ref="char:EOLhyphen"/>ment of God put upon the one, and not upon the other.</p>
+            <p>The things uſed in Ceremonies are in them<g ref="char:EOLhyphen"/>ſelves indifferent and inſignificant; but by the Sanction of thoſe Laws by which they are made Ceremonies, they become the moſt ne<g ref="char:EOLhyphen"/>ceſſary and eſſential Parts of the Law.</p>
+            <p>Such were the things uſed in the Sacrifices of the Moſaical Law, fooliſh and inſignifi<g ref="char:EOLhyphen"/>cant in themſelves, but being ſet in order ac<g ref="char:EOLhyphen"/>cording to the forms of that Law, they became Sanctions to one another.</p>
+            <p>The Gold of the Temple, the Wood of the Altar, and the Fleſh of Beaſts were all com<g ref="char:EOLhyphen"/>mon things till they were uſed according to the Temple-Laws; and then and there the Tem<g ref="char:EOLhyphen"/>ple ſanctified the Gold, and the Altar ſancti<g ref="char:EOLhyphen"/>fied the Gift.</p>
+            <p>So 'tis in our Law, a Writing is nothing, and Wax is nothing, and a Seal is nothing, they are but Cyphers in themſelves; but if the Wax be put to the Writing, and the Seal to the Wax, this makes the Writing to be a Deed, and is the form of a Title.</p>
+            <pb n="55" facs="tcp:152181:28"/>
+            <p>Men in their private Stations may argue with one another <hi>pro &amp; con</hi> as long as they pleaſe, without doing good or hurt: But the <hi>Ay</hi> or <hi>No</hi> of one of theſe Men given in a Court of Legiſlature, may turn the Fate of a King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>And the more ſlight and plain theſe Ceremo<g ref="char:EOLhyphen"/>nies are by which Titles are executed, the more ſure the Title is that is to come from them, be<g ref="char:EOLhyphen"/>cauſe they can neither be miſtaken nor forgot<g ref="char:EOLhyphen"/>ten.</p>
+            <p>We think it an extravagant humour in God to diſtinguiſh Men to be ſaved or dam<g ref="char:EOLhyphen"/>ned, only for believing, or not believing in Chriſt.</p>
+            <p>But may we not think it as extravagant in us, to diſtinguiſh our ſelves to have, or not have, a thouſand pounds a Year, only for ſeal<g ref="char:EOLhyphen"/>ing, or not ſealing a Deed?</p>
+            <p>Should we not call our ſelves Fools for re<g ref="char:EOLhyphen"/>fuſing to put forth our hands to a piece of Parchment, and take it off again, to get an Eſtate by?</p>
+            <p>And yet we think our ſelves wiſe in refuſing Eternal Life, becauſe we may have it upon ſuch eaſy Terms.</p>
+            <p>For tho from the poſitive words of this Preſcription, the ſealing and executing this Covenant of Eternal Life by Man (without more ſaying or doing) gives him as per<g ref="char:EOLhyphen"/>fect a Title to Eternal Life, as the ſealing of
+<pb n="56" facs="tcp:152181:29"/> a Deed among Men, can make to the Lands contained in it.</p>
+            <p>Yet from the negative words of the Pre<g ref="char:EOLhyphen"/>ſcription, there can be no Title to this Eternal Life without the complyance with this Cere<g ref="char:EOLhyphen"/>mony.</p>
+            <p>For if Man can have any other Title to Eternal Life, than according to this Cove<g ref="char:EOLhyphen"/>nant, this Covenant don't give him a Title to it.</p>
+            <p>No Deed gives Man a Title, that leaves a<g ref="char:EOLhyphen"/>ny part of the Title at large out of the Deed.</p>
+            <p>If the Grantor reſerves any of the Title to himſelf, then the Grantee hath no perfect Title.</p>
+            <p>But God hath excepted nothing out of this Covenant, but his own Perſonal Life: <hi>For when it is ſaid, That he hath put all things un<g ref="char:EOLhyphen"/>der him, it is manifeſt that he is excepted who hath put all things under him.</hi>
+            </p>
+            <p>Wherefore all the other parts of Eternal Life are ſubject to this way of Life by Jeſus Chriſt.</p>
+            <p>And hence all other attempts for Heaven are accounted Sin. <hi>He that entereth not in by the Door, but climbeth up ſome other way, is a Thief and a Robber; and comes for to ſteal.</hi>
+            </p>
+            <pb n="57" facs="tcp:152181:29"/>
+            <p>And having thus opened this Covenant,</p>
+            <p>Firſt, I put it upon the Profeſſion of Divi<g ref="char:EOLhyphen"/>nity to deny one word of the Fact, as I have repeated it.</p>
+            <p>Next, I challenge the Science of the Law to ſhew ſuch another Title as this.</p>
+            <p>And then I defy the Logicians to deny my Argument: Of which this is the Abſtract.</p>
+            <p>
+               <hi>That the Law delivered to</hi> Adam <hi>before the Fall, is the Original Cauſe of Death in the World.</hi>
+            </p>
+            <p>
+               <hi>That this Law is taken away by the Death of Chriſt.</hi>
+            </p>
+            <p>That therefore the Legal Power of Death is gone.</p>
+            <p>And I am ſo far from thinking this Cove<g ref="char:EOLhyphen"/>nant of Eternal Life to be an Alluſion to the forms of Title amongſt Men, that I rather a<g ref="char:EOLhyphen"/>dore it as the Precedent for them all, from which our imperfect Forms are taken: Be<g ref="char:EOLhyphen"/>lieving with that great Apoſtle, That <hi>the things on Earth are but the Patterns of things in the Heavens, where the Originals are kept.</hi>
+            </p>
+            <div type="part">
+               <head>B<g ref="char:V">Ʋ</g>T why then doth Death remain in the World?</head>
+               <p>Why, becauſe Man knows not the way of Life; <hi>The way of Life they have not known.</hi>
+               </p>
+               <pb n="58" facs="tcp:152181:30"/>
+               <p>Or (as I ſaid at the beginning) that Death maintains its dominion over us by our fear of it.</p>
+               <p>Having no other right to remain with us, but becauſe our Faith is not yet come to us; <hi>When the Son of Man comes, ſhall he find Faith upon the Earth?</hi>
+               </p>
+               <p>Man is a Beaſt of Burden that knows not his own ſtrength, <hi>in the virtue of the Death, and the Power of the Reſurrection of Chriſt.</hi>
+               </p>
+               <p>Which Ignorance doth not proceed from want of Revelation of the Truth, but from our neglect to ſtudy, and inaptitude to believe it: <hi>O Fools! and ſlow of heart to believe all that the Prophets have ſpoken.</hi>
+               </p>
+               <p>Unbelief don't go by reaſon or dint of Ar<g ref="char:EOLhyphen"/>gument, but is a ſort of Melancholy-madneſs, by which if we once fancy our ſelves bound, it hath the ſame effect upon us as if we really were ſo.</p>
+               <p>It is like the noiſe of War heard in the Camp of the <hi>Syrians,</hi> which made them fly when no one purſued.</p>
+               <p>Or like that poſſeſſion of fear which ſtill kept the beſieged within the Gariſon, tho the Enemy had left the Field.</p>
+               <p>Death is like Satan, who appears to none but them that are afraid of him. <hi>Reſiſt the De<g ref="char:EOLhyphen"/>vil, and he will fly from you.</hi>
+               </p>
+               <p>Or like Tyrants and ſaucy Pedagogues, whoſe former Cruelties render them terrible
+<pb n="59" facs="tcp:152181:30"/> to thoſe who have been under their laſh, after they are freed from it.</p>
+               <p>Becauſe Death had once dominion over us, we think it hath and muſt have it ſtill.</p>
+               <p>And this I find within my ſelf, that tho I can't deny one Word I have ſaid in Fact or Ar<g ref="char:EOLhyphen"/>gument, yet I can't maintain my belief of it, without making it more familiar to my un<g ref="char:EOLhyphen"/>derſtanding, by turning it up and down in my thoughts, and ruminating upon ſome pro<g ref="char:EOLhyphen"/>ceedings already made upon it in the World.</p>
+               <p>Some Specimens whereof I'll preſent to the Reader.</p>
+               <p>The Motto of the Religion of the World is (as I have ſaid) <hi>Mors janua Vitae,</hi> Death is the Gate of Life.</p>
+               <p>Now, I ſay, if we do by this mean <hi>the Death of Chriſt,</hi> then we are in the right.</p>
+               <p>But if by this we mean <hi>our own Death,</hi> then we are in the wrong. The Death of Chriſt was neceſſary for him and us both, becauſe the Covenant of Life would not take effect but by his Death, which in the Covenant hath two Capacities.</p>
+               <p>
+                  <hi>1ſt.</hi> As it was the conſideration upon which the Covenant was made.</p>
+               <p>
+                  <hi>2dly.</hi> As it was the Ceremony by which it was executed.</p>
+               <p>But all this being over and done, the Death
+<pb n="60" facs="tcp:152181:31"/> of Man is wholly uſeleſs, and ſerves to no in<g ref="char:EOLhyphen"/>tent or purpoſe, in order to Eternal Life, nor ever did.</p>
+               <p>And could we diſtinguiſh between the change of our State, and the change of our Perſons and Places; this Doctrine would be more plain to us.</p>
+               <p>By State I always mean Title; ſo that when I ſay a Man is in the State of Life, I mean he is by Law intituled to live; and when I ſay he is in the ſtate of Death, I mean he is by Law appointed to die.</p>
+               <p>Now a Man may change his State, without change of his Perſon or Place.</p>
+               <p>Chriſt by his Death and Reſurrection did paſs under an inviſible change of his State, by being diſcharged from that Law of Death to which he ſtood before ſubjected by his Birth, and being tranſlated into that Law of Life which he gained by his Reſurrection.</p>
+               <p>Which tho it were only a legal or inviſible Tranſlation, he was thereby as ſafe from Death as he is now, being aſcended and ſitting at the right Hand of God.</p>
+               <p>And yet his Perſon remained here un<g ref="char:EOLhyphen"/>changed; <hi>Behold my Hands and my Feet, that it is I my ſelf.</hi> Theſe were Marks of Honour that could not be counterfeit.</p>
+               <p>And that ſome did not know him, is ſaid to be from their Unbelief, or that their Eyes were holden that they ſhould not know him.</p>
+               <pb n="61" facs="tcp:152181:31"/>
+               <p>But tho this change of his State in an in<g ref="char:EOLhyphen"/>ſtant, did not work ſo ſudden an alteration in his Perſon, yet it did intitle his Perſon to a change for the better, which Title he had not before his Death.</p>
+               <p>Chriſt was as perfect in his Nature and his Principles before Death as he was afterwards; and yet he could not then make his immedi<g ref="char:EOLhyphen"/>ate paſſage to Heaven by way of tranſlation, becauſe he was fallen under that Law, which did oblige him to the common Fate of Death.</p>
+               <p>But having once ſuffered this, and thereby, and by his Reſurrection, delivered himſelf from that Law which had obliged him to it: He then ſtood perfectly qualified to make his <hi>Exit</hi> by way of Tranſlation. And therefore having done all he had to do upon Earth, he claimed a right of reentrance into his former Glory without dying any more: <hi>I have finiſh<g ref="char:EOLhyphen"/>ed the Work thou gaveſt me to do: Now glorify me with that Glory which I had with thee before the World began.</hi>
+               </p>
+               <p>And thereupon God ſent him down one of the Chariots of Heaven to convey him thi<g ref="char:EOLhyphen"/>ther, as he had done before to thoſe two He<g ref="char:EOLhyphen"/>roes of old (whom I have excepted out of the poſſeſſion of Death) upon this their Faith in him, before they ſaw him. <hi>Bleſſed are they that have not ſeen, and yet have believed.</hi>
+               </p>
+               <p>Now I ſay this, that as Chriſt did thus change his State upon Earth, without change
+<pb n="62" facs="tcp:152181:32"/> of his Perſon or Place; ſo Man may do too, with this difference, that tho Chriſt paſſed this change by his own Death and Reſurrecti<g ref="char:EOLhyphen"/>on, yet we can't do it by our own Death and Reſurrection, but muſt do it by paſſing through the Death and Reſurrection of Chriſt in that legal Form preſcribed by the Covenant of Eternal Life; becauſe his Death and not ours, is made the Seal of that Covenant.</p>
+               <p>And this Man may do, without any real Death or Reſurrection of his own.</p>
+               <p>If the Death and Reſurrection of Chriſt be the Paſſage into Eternal Life, then he that is paſſed this, is paſſed into Eternal Life, whe<g ref="char:EOLhyphen"/>ther he himſelf ever died or not.</p>
+               <p>And for us to think to imitate Chriſt in at<g ref="char:EOLhyphen"/>taining Eternal Life, by paſſing through Death, becauſe Chriſt did ſo, ſhews us to be as ignorant of the Law of Eternal Life, as a Man would ſeem of our Laws, who ſeeing another intituled to an Eſtate by ſealing of a piece of Wax upon a piece of Parchment, ſhould think to get the ſame himſelf, by doing the ſame thing upon other pieces of the like, of his own putting together.</p>
+               <p>For my own part (I thank God) I have already made this ſo familiar to my ſelf, that could I paſs through an actual Death and Reſurrection of my own, without Pain, I would not value the Experiment as any thing towards Salvation, further than this, that I
+<pb n="63" facs="tcp:152181:32"/> ſhould thereby know that there is nothing in it.</p>
+               <p>And of this I am as well ſatisfied by the Experiments made upon others, as if it were upon my ſelf.</p>
+               <p>When Chriſt had opened the Eyes of the Man born blind, the People were ready to interrogate him to death; <hi>What? How? Where? When</hi> did he cure you? <hi>What did he ſay to you? What did he do to you? What did you ſee firſt? What did you feel firſt?</hi> But he knew no more of the matter than they did: Only that, <hi>whereas I was blind, now I ſee.</hi>
+               </p>
+               <p>So when the People flock'd about <hi>Lazarus,</hi> expecting to hear from him ſome News of the other World, he could give them no other ac<g ref="char:EOLhyphen"/>count of it, than, <hi>whereas I am dead, now I am alive.</hi>
+               </p>
+               <p>He was neither richer nor wiſer by his Re<g ref="char:EOLhyphen"/>ſurrection, nor could learn by that how to eſcape another Death, but died again, and might have thus died and roſe, and roſe and died a hundred times, without any change of his State.</p>
+               <p>Wherefore <hi>Samuel</hi> ask'd <hi>Saul, Why doſt thou diſquiet me to bring me up?</hi> What wouldſt thou have with me? Is it to ſee me? Why here I am, <hi>an old Man in a Mantle,</hi> as thou haſt ſeen me a hundred times. Wouldſt thou talk with me? Why thou knowſt what I have told thee over and over, <hi>the Lord is departed
+<pb n="64" facs="tcp:152181:33"/> from thee, and hath rent the Kingdom out of thy hand;</hi> and ſo I tell you now, and more I can<g ref="char:EOLhyphen"/>not ſay.</p>
+               <p>If Men will not believe <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets while they are living, why ſhould we fancy we ſhall rather believe them when riſen from the Dead? If they ſay the ſame things over again, it is Impertinence; and ſhould they contradict themſelves, how could we be<g ref="char:EOLhyphen"/>lieve them?</p>
+               <p>We have ſtrange Conceptions of Death and Reſurrection as long as we are on this ſide them: But when we have once paſſed through and find our ſelves much the ſame as we were before, we ſhall be at as much loſs about it as we are now.</p>
+               <p>And if the Death of others who have died before us, hath put us into ſuch a fear of Death that we ſhall die too, I can't conceive how our own Death ſhould diſcharge us of that fear after our Reſurrection, but that it ſhould rather augment it; for what we have once felt, we are ever after more afraid of feeling again. <hi>The burnt Child dreads the Fire.</hi>
+               </p>
+               <p>And yet far be it from me to ſay that Man may not attain to Eternal Life tho he ſhould die; for the Text runs double, <hi>I am the Re<g ref="char:EOLhyphen"/>ſurrection and the Life; he that liveth and be<g ref="char:EOLhyphen"/>lieveth on me ſhall never die, and tho he were dead he ſhall live.</hi>
+               </p>
+               <pb n="65" facs="tcp:152181:33"/>
+               <p>But this I ſay, that by this very Text there is a nearer way of entring into Eternal Life than by the way of Death and Reſurrection.</p>
+               <p>Whatever Circumſtances a Man is under at the time of his Faith, God is bound upon his Fidelity to make good this Text to him ac<g ref="char:EOLhyphen"/>cording to which part of it he builds his Faith upon.</p>
+               <p>If he be dead, then there's a neceſſity for a Reſurrection.</p>
+               <p>But if he be alive, there's no occaſion for Death or Reſurrection either.</p>
+               <p>Nor doth this Text maintain two Religions, but two Articles of Faith in the ſame Reli<g ref="char:EOLhyphen"/>gion.</p>
+               <p>But this I do apprehend, that the Article of Faith for a preſent Life without dying is a higher Article of Faith than that which expects Death and Reſurrection; becauſe I paſſed through this laſt Article long before the other (which I am now arguing for) ever enter'd into my thoughts.</p>
+               <p>I once courted Death, as <hi>Elijah</hi> did under the Juniper-Tree in the Wilderneſs, when <hi>he requeſted for himſelf to die, and ſaid, Now Lord, take away my Life, for I am not better than my Fathers.</hi>
+               </p>
+               <p>Which ſhews that he was not educated in this Faith of Tranſlation, but attained it after<g ref="char:EOLhyphen"/>wards by ſtudy.</p>
+               <pb n="66" facs="tcp:152181:34"/>
+               <p>For no Man can comprehend the heights and depths of the Goſpel at his firſt entrance into it.</p>
+               <p>And in point of order, <hi>the laſt Enemy to be deſtroyed is Death.</hi>
+               </p>
+               <p>The firſt Eſſay of Faith is againſt Hell, that tho we ſhould die we might not be damned.</p>
+               <p>And the full aſſurance of this is more than moſt Men attain to before Death overtakes them, which makes Death a Terror to them.</p>
+               <p>But they that do attain to this aſſurance before they go hence, can ſing a Requiem at their Death, <hi>Lord, now letteſt thou thy Servant depart in peace, for mine Eyes have ſeen thy Sal<g ref="char:EOLhyphen"/>vation.</hi>
+               </p>
+               <p>And if God takes them at their words, they lie down in the Faith of the Reſurrection of the Juſt.</p>
+               <p>But whenever he pleaſes to continue them (after this attainment) much longer above ground, that Time ſeems to them an Interval of perfect leiſure (as <hi>Alexander</hi>'s did to him after his Conqueſt) till at laſt eſpying Death it ſelf, they fall upon it as an Enemy that muſt be conquered one time or other through Faith in Chriſt.</p>
+               <p>And for this cauſe there ſeems a reſpite of time intended to be allotted to Believers after the firſt Reſurrection, and before the Diſſolu<g ref="char:EOLhyphen"/>tion of the World, for perfecting that Faith
+<pb n="67" facs="tcp:152181:34"/> which they began before their Death, and which they could not attain to in the firſt reach of Life.</p>
+               <p>For Death being but a diſcontinuance of Life; wherever Men leave off at their Death, they muſt begin at their Reſurrection.</p>
+               <p>The Believers already dead are not aſcended into the Heavens; <hi>for</hi> David <hi>is not aſcended into the Heavens.</hi>
+               </p>
+               <p>Nor ſhall they aſcend after their Reſur<g ref="char:EOLhyphen"/>rection, till they have attain'd to this Faith of Tranſlation.</p>
+               <p>And by that very Faith they ſhall be then convinced, that if they had had that Faith before, they need not have died.</p>
+               <p>The Story of <hi>Lazarus</hi> makes this plain.</p>
+               <p>His two Siſters ſaid to Chriſt, that <hi>if he had been there, their Brother had not died.</hi>
+               </p>
+               <p>And others that ſtood by ſaid, <hi>Could not this Man that opened the Eyes of the blind, have even cauſed that this Man ſhould not have died?</hi>
+               </p>
+               <p>And <hi>Martha</hi> ſaid further, <hi>That whatever Chriſt would yet ask of God, God would give it him:</hi> By which ſhe declared her Faith to be, that Chriſt could raiſe her Brother preſently.</p>
+               <p>Now theſe People had not theſe Articles of Faith from any Religion then commonly re<g ref="char:EOLhyphen"/>ceived amongſt them.</p>
+               <p>But obſerving the Miracles Chriſt had done before, they could not beat it out of their heads, but that he could have prevented the
+<pb n="68" facs="tcp:152181:35"/> Death of <hi>Lazarus,</hi> and could then raiſe him preſently.</p>
+               <p>Both which were right and rational Con<g ref="char:EOLhyphen"/>cluſions, and did form a true Religion in them.</p>
+               <p>But when Chriſt cloſed in with them upon it, and offered to make it good by raiſing the dead Man preſently, they all fell to recanting their Faith; one cry'd, <hi>He ſtinketh,</hi> and the other, <hi>He hath been dead four days,</hi> and there<g ref="char:EOLhyphen"/>upon deſired him to deſiſt.</p>
+               <p>And the reaſon of the Recantation is evi<g ref="char:EOLhyphen"/>dent.</p>
+               <p>The common Religion then received a<g ref="char:EOLhyphen"/>mongſt them concerning the Reſurrection was (what we ſtill retain) <hi>That there will be a Re<g ref="char:EOLhyphen"/>ſurrection at the laſt day.</hi>
+               </p>
+               <p>And this having gain'd an Impreſſion upon them from the force of Education, was too ſtrong for that ſingle Impreſſion which fell upon their Minds from their own Obſervation only.</p>
+               <p>And therefore they thought it ſafer to re<g ref="char:EOLhyphen"/>nounce their own Faith than the Religion de<g ref="char:EOLhyphen"/>livered them by their Parents.</p>
+               <p>But Chriſt by doing the thing, did convince them that their own Faith and Opinion of him was right.</p>
+               <p>And yet he did not ſay that the Religion delivered them by their Parents was wrong.</p>
+               <pb n="69" facs="tcp:152181:35"/>
+               <p>For that there will be a Reſurrection at the laſt day, in which all they that are not be<g ref="char:EOLhyphen"/>fore that time raiſed, ſhall then ariſe.</p>
+               <p>But what he ſaid (by this Text) was, that this Reſurrection at the laſt day doth not pre<g ref="char:EOLhyphen"/>vent a preſent Reſurrection from Death, nor an immediate Tranſlation without Death, to them whoſe Faith is ready to receive it.</p>
+               <p>We muſt all be changed, but we need not all die in order to be changed; for 'tis not Death that works our Change, but the Death and Reſurrection of Chriſt, which we may paſs through without Death.</p>
+               <p>
+                  <hi>Paul</hi> was of this Religion, that we may be changed without Death, <hi>We ſhall not all die, but we ſhall all be chang'd.</hi>
+               </p>
+               <p>And yet tho he had deliver'd this to be his Faith in general, he did not attain to ſuch a particular knowledg of the way and manner of it, ſo as to prevent his own Death.</p>
+               <p>And his Confeſſion tells us the reaſon of his failure, <hi>That he had not yet attained the Re<g ref="char:EOLhyphen"/>ſurrection of the Dead, but was preſſing after it.</hi>
+               </p>
+               <p>But tho he was taken away in this purſuit, he hath not loſt his labour, but is got ſo much nearer to the mark, and at his Reſurrection will be ſo far beforehand with them that never ſtudied it.</p>
+               <p>He had but a late Converſion, and after that was detained in the ſtudy of another part of Divinity, <hi>the confirming the New Teſtament
+<pb n="70" facs="tcp:152181:36"/> by the Old, and making them anſwer one another;</hi> in which he ſeems to have ſpent himſelf, and from whence all Students in Divinity after him have ſtood upon his Shoulders: For this is a Point previous to the Faith of Tranſla<g ref="char:EOLhyphen"/>tion, and muſt be learn'd before it in order to it.</p>
+               <p>And this his preſſing (tho he did not attain) hath much encouraged me to make this Inqui<g ref="char:EOLhyphen"/>ry, being well aſſured that he would not have thus purſued it, had he not apprehended more in it than the vulgar Opinion is about it.</p>
+               <p>We don't think our ſelves fit to deal with one another in Human Affairs till our Age of one and twenty.</p>
+               <p>But to deal with our Maker thus offended, to counter-plot the Malice of fallen Angels, and to reſcue our ſelves from eternal Ruin, we are generally as well qualified for before we can ſpeak plain, as all our Life-time after.</p>
+               <p>Children can ſay over their Religion at four or five years old, and their Parents that taught them can do no more at four or five and fifty.</p>
+               <p>For Religion being preach'd to them as a Myſtery, they are forbid to think of under<g ref="char:EOLhyphen"/>ſtanding it. <hi>Graecum eſt, non poteſt legi.</hi>
+               </p>
+               <p>The common Creed of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion may be learn'd in an hour.</p>
+               <p>And one day's Philoſophy will teach a Man to die.</p>
+               <pb n="71" facs="tcp:152181:36"/>
+               <p>But <hi>to know the Virtue of the Death and Power of the Reſurrection of Chriſt,</hi> is a Sci<g ref="char:EOLhyphen"/>ence calculated for the ſtudy of Men and An<g ref="char:EOLhyphen"/>gels for ever.</p>
+            </div>
+            <div type="part">
+               <p>BUT if Man may be thus chang'd with<g ref="char:EOLhyphen"/>out Death, and that it is of no uſe to him in order to Eternal Life:</p>
+               <p>What then is Death? Or,</p>
+               <p>Whereunto ſerveth it?</p>
+               <p>What is it? Why 'tis a misfortune fallen upon Man from the beginning, and from which he hath not yet dared to attempt his recovery.</p>
+               <p>And it ſerves as a <hi>Spectrum</hi> to fright us into a little better life than (perhaps) we ſhould lead without it.</p>
+               <p>Tho God hath formed this Covenant of E<g ref="char:EOLhyphen"/>ternal Life againſt Death, Man ſtill maintains a Covenant with it. <hi>They have made an A<g ref="char:EOLhyphen"/>greement with Death and Hell.</hi>
+               </p>
+               <p>By way of compoſition, to ſubmit to Death, in hopes, by that obedience, to eſcape Hell.</p>
+               <p>And under this Oath of Allegiance we think our ſelves bound never to rebel againſt it.</p>
+               <p>The ſtudy of Philoſophy, is to teach Men to die from the Obſervations of Nature.</p>
+               <pb n="72" facs="tcp:152181:37"/>
+               <p>The Profeſſion of Divinity, is to inforce this Doctrine from Revelation.</p>
+               <p>And the Science of the Law, is to ſettle our civil Affairs purſuant to theſe Reſolutions.</p>
+               <p>The old Men are making their laſt Wills and Teſtaments:</p>
+               <p>And the young are expecting the execution of them by the death of the Teſtators.</p>
+               <p>And thus,</p>
+               <q>Mortis ad exemplum totus componitur Orbis.</q>
+               <p>Now what <hi>one</hi> Man dares raiſe a Faction againſt the whole World thus conſtituted un<g ref="char:EOLhyphen"/>der the Political Government of Death?</p>
+               <p>Why but! if the Truth of Religion be de<g ref="char:EOLhyphen"/>fined by the number of Profeſſors; then the <hi>Mahometan</hi> is ſafer than the <hi>Chriſtian,</hi> and the <hi>Romiſh</hi> than the <hi>Proteſtant.</hi>
+               </p>
+               <p>The majority of Votes in Civil Affairs may conclude our right, but it don't thereby con<g ref="char:EOLhyphen"/>vince our Judgment.</p>
+               <p>Nor are our Rights thereby concluded fur<g ref="char:EOLhyphen"/>ther than for that Turn only.</p>
+               <p>And thus it is in the whole Scheme of Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>
+                  <hi>In the Power Elective.</hi> The majority of Electors conclude the minority for that Turn only.</p>
+               <p>
+                  <hi>In the Power Legiſlative.</hi> The majority of the Legiſlators make a Law; but their Suc<g ref="char:EOLhyphen"/>ceſſors are not by this precluded from repeal<g ref="char:EOLhyphen"/>ing
+<pb n="73" facs="tcp:152181:37"/> that Law by another majority.</p>
+               <p>
+                  <hi>In the Power Judicial.</hi> The opinion of the Majority make a Rule in Law, but their Succeſſors may alter thoſe Rules by the like Majority.</p>
+               <p>Which hath made much difference between Opinions Antient and Modern.</p>
+               <p>And tho theſe ſeem (and indeed are) in<g ref="char:EOLhyphen"/>certainties in the Law, yet the policy of Man can't form a better.</p>
+               <p>Becauſe thoſe Laws or Judgments which are good at the time of the making, may come to be otherwiſe by things that may happen in revolution of time.</p>
+               <p>And therefore none but God himſelf (who alone foreknows Times and Seaſons) can eſta<g ref="char:EOLhyphen"/>bliſh an Eternal Law.</p>
+               <p>When the vaſtneſs of Empire in the <hi>Perſian</hi> Monarchy had raiſed a Pride in their Kings to arrogate to themſelves this Power; it pro<g ref="char:EOLhyphen"/>ved but a Fallacy.</p>
+               <p>And thus when <hi>Hadaſſah</hi> (the Queen) had prevailed upon <hi>Ahaſuerus,</hi> to reverſe his De<g ref="char:EOLhyphen"/>cree for the Maſſacre of the <hi>Jews;</hi> the Scribes (who were the Lawyers in thoſe days) ſoon found out an Evaſion of the Law to ſute the change of the King's Mind.</p>
+               <p>They let the former Proclamation for the Maſſacre go as it was:</p>
+               <p>And iſſued out another, granting the <hi>Jews</hi> liberty to ſtand for their Lives with force of Arms.</p>
+               <pb n="74" facs="tcp:152181:38"/>
+               <p>And thus both theſe Decrees were executed with the loſs of about 75000 Men ſlain on one ſide.</p>
+               <p>And yet (forſooth) theſe two Proclamati<g ref="char:EOLhyphen"/>ons ſo contrary to one another, and iſſued within leſs than three months one of the o<g ref="char:EOLhyphen"/>ther, muſt bear the Sacred Name of <hi>Eternal Laws</hi> for the Honour of the King that made them.</p>
+               <p>This I inſtance to ſhew, that the Policy of Man can't conſtitute an Eternal Law.</p>
+               <p>And from hence (I ſay) I am not ſo much concerned for the preſent Opinion of the World againſt me, becauſe being but the Opi<g ref="char:EOLhyphen"/>nion of Men, it is ſubject to a change.</p>
+               <p>And I know the time when the whole World were of another Opinion.</p>
+               <p>
+                  <hi>Adam</hi> and <hi>Eve</hi> had no fear of Death till they fell under the Law of Death.</p>
+               <p>And could their Poſterity, who are fallen under this Law with them, apprehend their deliverance from it into the Law of Life, they would all be converted in a day.</p>
+               <p>I was under this Law of Death once, and while I lay under it, I felt the terror of it, till I had delivered my ſelf from it by thoſe thoughts that muſt convince them that have them.</p>
+               <p>And in this thing only I wiſh (for their ſakes) that all Men were as I am.</p>
+               <pb n="75" facs="tcp:152181:38"/>
+               <p>Nor do I yet think my ſelf obliged in this Argument to diſpute all the reſt of the World by Unites.</p>
+               <p>For in Matters of Faith Men aggregate in<g ref="char:EOLhyphen"/>to Churches and Claſſes, where we may ar<g ref="char:EOLhyphen"/>gue with a whole Clan of them at once.</p>
+               <p>Now for Children and Madmen, and all the Nations that know not God, nor call up<g ref="char:EOLhyphen"/>on his Name, I am no more capable of diſ<g ref="char:EOLhyphen"/>cuſſing this Point with them, than with Creatures wholly deprived of Speech.</p>
+               <p>But for the whole Chriſtian World profeſ<g ref="char:EOLhyphen"/>ſing their Religion from Revelation, I'll ven<g ref="char:EOLhyphen"/>ture to encounter them all at once, and that in their own Creed, which I know they can run over as faſt as a Mariner doth the Points of the Compaſs.</p>
+               <p>But if after that we would but catechiſe our ſelves a little in it, we ſhall find that when we come to the main Point, our Faith will be like the <hi>Athenians</hi> Worſhip; <hi>We believe we know not what.</hi>
+               </p>
+               <p>
+                  <hi>You believe in God, and in Jeſus Chriſt his Son our Lord; born of the Virgin, ſuffered un<g ref="char:EOLhyphen"/>der</hi> Pontius Pilate; <hi>crucified, dead, buried; roſe again the third day, aſcended into Heaven, ſitting at the right Hand of God: and from thence he ſhall come to judg the living and the dead.</hi>
+               </p>
+               <p>Very well! this is a full deſcription of the Perſon in whom you place your Faith.</p>
+               <pb n="76" facs="tcp:152181:39"/>
+               <p>But what is it that you do or would believe of him, or in him?</p>
+               <p>
+                  <hi>Why, we believe him for our Saviour.</hi>
+               </p>
+               <p>Save you! from what?</p>
+               <p>
+                  <hi>Why! from our Sins.</hi>
+               </p>
+               <p>Why, what hurt will Sin do you?</p>
+               <p>
+                  <hi>Why, it will kill us.</hi>
+               </p>
+               <p>How do you know?</p>
+               <p>
+                  <hi>Why, the Law of God ſaith ſo; In the day thou eateſt thereof thou ſhalt die.</hi>
+               </p>
+               <p>Why, but then will not this Saviour ſave you from this Law, and from this Death?</p>
+               <p>
+                  <hi>No, no, he'l ſave us from Sin.</hi>
+               </p>
+               <p>Why then it ſeems you have got a Pardon for Horſe-ſtealing, with a <hi>non obſtante</hi> to be hang'd.</p>
+               <p>Do but ſee now, what a Jeſt you have made of your Faith.</p>
+               <p>And yet I defy the Order of Prieſthood to form a better Creed than this, without ad<g ref="char:EOLhyphen"/>mitting the Truth of my Argument:</p>
+               <p>Or to make ſenſe of their own Faith with<g ref="char:EOLhyphen"/>out adding mine to it.</p>
+               <p>It is much eaſier to make a Creed, than to believe it after it is made.</p>
+               <p>Nor can any Man really believe any part of the Goſpel that doth not believe it all.</p>
+               <p>For it is a Doctrine ſo dependant upon it ſelf, that unleſs we know the whole of it from the beginning to the end, we can't know the uſe or reaſon of any part of it.</p>
+               <pb n="77" facs="tcp:152181:39"/>
+               <p>Wherefore (notwithſtanding this Inundati<g ref="char:EOLhyphen"/>on of Death in the World, and the infection of fear contracted upon Man from hence) I am not afrighted from reaſſuming my Aſſer<g ref="char:EOLhyphen"/>tions at the Beginning.</p>
+               <p>
+                  <hi>That this long poſſeſſion of Death over Man, is a poſſeſſion againſt Right.</hi>
+               </p>
+               <p>
+                  <hi>That the length of this Poſſeſſion is no fore<g ref="char:EOLhyphen"/>cloſure of the Right of Man to Life.</hi>
+               </p>
+               <p>
+                  <hi>And that he that dares proſecute his Claim with effect, may recover this Right, and avoid that poſſeſſion.</hi>
+               </p>
+               <p>And that he that is got through the Death and Reſurrection of Chriſt, hath had Judg<g ref="char:EOLhyphen"/>ment againſt Death, and execution of Eter<g ref="char:EOLhyphen"/>nal Life.</p>
+               <p>Chriſt by the inſtant of his Reſurrection, ſtood diſſolved from all his former Relations to the World; neither could he die any more, being become a <hi>Child of the Reſurrection.</hi>
+               </p>
+               <p>For tho he did ariſe with the ſame Body with which he died, yet that riſen Body was not the Son of the Virgin <hi>Mary,</hi> becauſe he had aſſumed it by a new Power, and in ano<g ref="char:EOLhyphen"/>ther manner than that by which he was firſt born.</p>
+               <p>The Body with which he lay down in the Grave, was of no more uſe to him in his Re<g ref="char:EOLhyphen"/>ſurrection, than ſo much other common Mat<g ref="char:EOLhyphen"/>ter; for he was put to add Life to it by his own Power, which he could have done to
+<pb n="78" facs="tcp:152181:40"/> any other matter as well as that.</p>
+               <p>The preſent Bodies of Men laid down in the Grave, are of no uſe to God in the Reſur<g ref="char:EOLhyphen"/>rection.</p>
+               <p>Therefore he permits them to be diſſolved into any other Forms, knowing that he can give the old Forms again to any other Matter, by thoſe Characters of them which remain with him. <hi>God is able out of theſe Stones to raiſe up Children unto</hi> Abraham.</p>
+               <p>And in this he reſembles himſelf to a Pot<g ref="char:EOLhyphen"/>ter, who takes no care to preſerve his broken Pots for any other uſe of them; becauſe hav<g ref="char:EOLhyphen"/>ing the Moulds by him, he can make ſeveral Veſſels of the ſame Figure out of one Earth as well as another.</p>
+               <p>And tho all the Veſſels of the ſame Mould are not the ſame in identity of Matter, yet be<g ref="char:EOLhyphen"/>ing the ſame in Form, they are the ſame to all uſes, intents, and purpoſes.</p>
+               <p>And hence tho the Dead ſhall not ariſe with the ſame identity of Matter with which they died, yet being in the ſame Form, they will not know themſelves from themſelves, being the ſame to all uſes, intents, and purpoſes.</p>
+               <p>But in this God is ſo curious an Artiſt, that he keeps a ſeveral Character in Heaven for every Figure of Man on Earth, by which (as the Apoſtle ſaith) <hi>every Seed ſhall receive its own Body.</hi>
+               </p>
+               <pb n="79" facs="tcp:152181:40"/>
+               <p>Whereas we (like <hi>Fac-ſimile</hi> Mechanicks) make one Mould ſerve for a thouſand Figures.</p>
+               <p>But then as God (in the Reſurrection) is not bound up to uſe the ſame Matter, neither is he obliged to uſe a different Matter.</p>
+               <p>Whenever the Body to be raiſed doth remain ſo intire from Corruption that the form of it is not ſpoiled, God uſes that form again (as it is) without compoſing any other Matter.</p>
+               <p>Thus he did with the Body of Chriſt, ac<g ref="char:EOLhyphen"/>cording to that Promiſe, <hi>Thou wilt not leave my Soul in Grave, nor ſuffer thy holy One to ſee Corruption.</hi>
+               </p>
+               <p>And thus Chriſt did with the Bodies he raiſed in the days of his Fleſh.</p>
+               <p>All which I inſtance ſtill to ſhew the Inſig<g ref="char:EOLhyphen"/>nificancy of Death one way or other, in order to Eternal Life; and that the Death of Man works no change in him.</p>
+               <p>To make this ſtill more plain, conſider when and where the Predeſtination of God is execu<g ref="char:EOLhyphen"/>ted upon Man.</p>
+               <p>Chriſt ſaid, <hi>Rejoice in this, that your Names are written in the Book of Life.</hi>
+               </p>
+               <p>Which he would not have commanded Man upon Earth, if the knowledg of it (which ſeems to be the top of Man's Ambition) were not attainable here.</p>
+               <pb n="80" facs="tcp:152181:41"/>
+               <p>Now this being part of the ſecret Will of God (as his own <hi>Memorandums</hi> of what he intends to do) it can't be ſhewn to Man by Inſpection.</p>
+               <p>But when God comes to execute this ſecret Will, then it becomes part of his revealed Will, which belongs to Man: <hi>Secret things be<g ref="char:EOLhyphen"/>long to God, but things revealed, to us and to our Children.</hi>
+               </p>
+               <p>And the time of the Execution of this Decree being the inſtance of our Faith in Chriſt; <hi>As many as were ordained to Eternal Life believed:</hi> We may by this be as ſure that our Names are written in the Book of Life, as if we had wrote it with our own hands. And that this inſtant of Faith is the time of the execution of this Decree, appears by what Chriſt ſaid to the Thief on the Croſs; <hi>This day ſhalt thou be with me in Paradiſe.</hi>
+               </p>
+               <p>From whence ſome think themſelves ob<g ref="char:EOLhyphen"/>liged to believe a ſeparate Exiſtence of the Soul from the Body by Death: For (ſay they) ſomething of this Man did immediately go into Paradiſe, and we ſee his Body remains here: <hi>Ergo,</hi> his Soul went.</p>
+               <p>Whereas Chriſt did not ſpeak this of the Perſon, but the State of the Man.</p>
+               <p>Chriſt and he were both under the ſame State before they were executed, which <hi>was the Law of Death.</hi>
+               </p>
+               <pb n="81" facs="tcp:152181:41"/>
+               <p>And that very day they both exchanged this State into the State of Life; Chriſt by his own Death, and the Man by Faith in him; tho the Perſon of Chriſt went one way, and his another.</p>
+               <p>So from the words of <hi>David, Thou wilt not leave my Soul in Grave;</hi> there was a Con<g ref="char:EOLhyphen"/>ception raiſed of the ſeparate Exiſtence of the Soul: For (think we) the Body of <hi>David</hi> is in the Grave; <hi>Ergo,</hi> his Soul is gone to Heaven by it ſelf.</p>
+               <p>But <hi>Peter</hi> evinced this Doctrine as erroneous, by ſhewing that <hi>David</hi> ſpoke prophetically of the Reſurrection of Chriſt, in which the word <hi>Soul</hi> comprehends <hi>his whole human Life,</hi> which did die and riſe together.</p>
+               <p>And that it is tranſlated <hi>Soul,</hi> is an <hi>Angliciſm,</hi> not underſtood in other Languages, which have no other word for <hi>Soul</hi> but the ſame which is for <hi>Life.</hi>
+               </p>
+               <p>As 'tis uſual for ſome peculiar Countries to have an odd Name for a common thing, which is not vulgarly known in any other parts of the ſame Kingdom.</p>
+               <p>See how Man's Life came to him at firſt.</p>
+               <p>God firſt formed the Figure of Man's Body in common Earth (from whence Men alſo form Figures of one another.)</p>
+               <p>Then to this Figure God added Life, by breathing it into him from himſelf, whereby this inanimate Body became a living one.</p>
+               <pb n="82" facs="tcp:152181:42"/>
+               <p>But in this Compoſition the Spirit is ſo perfectly mixed with, and diffuſed through the whole Body, that we can't now ſay which is <hi>Spirit,</hi> nor which is <hi>Earth,</hi> but the whole is <hi>one intire living Creature.</hi>
+               </p>
+               <p>As in levened Dough, we can't ſay which is the Leven, nor which is the Dough.</p>
+               <p>But God who firſt infuſed this Life, can extract it out again, and leave the Body as it was before this Life was thus put into it.</p>
+               <p>And this form of Death God choſe for Man. <hi>Duſt thou art, and unto Duſt ſhalt thou return.</hi>
+               </p>
+               <p>God unmakes Man juſt as he made him: He takes him to pieces like a jointed Tool; he draws in his Breath to himſelf, and leaves the Lump to the Elements of which it was at firſt compoſed, which by degrees loſes its ve<g ref="char:EOLhyphen"/>ry Form, and takes its place again in common with other Matter.</p>
+               <p>And thus the Spirit returns to God that gave it; for the remainder of the Spirit is with him.</p>
+               <p>But in this return, the Spirit of Man main<g ref="char:EOLhyphen"/>tains no ſelf-exiſtence, having ſurrender'd it ſelf into the Ocean of Life, from whence it firſt flowed.</p>
+               <p>When Rivers return into the Sea, they are no more Rivers, but loſe their Name and Pro<g ref="char:EOLhyphen"/>perty, being merged in the Ocean of their o<g ref="char:EOLhyphen"/>riginal Fountain.</p>
+               <pb n="83" facs="tcp:152181:42"/>
+               <p>And yet God doth retain in his Memory the particular Characters or Ideas of every in<g ref="char:EOLhyphen"/>ſtance of Life which he doth ſo extract, from whence (in the day of the reſtitution of all things) every Body ſhall have its own Spirit, and every Spirit its own Body.</p>
+               <p>But to return to my Argument (whence I have a little digreſſed to deſcant upon this Opinion of the ſelf-exiſtence of the Soul.)</p>
+               <p>If this Man that was crucified with Chriſt, did immediately become in the ſame ſtate with him, how comes it that he lies ſtill in the Grave, while Chriſt is aſcended into the Heavens?</p>
+               <p>To this I ſay, that tho this Man's firſt Faith did thus qualify him for a change of State, yet he had not proceeded far enough in this Faith to qualify himſelf for an immediate Tanſlation of his Perſon; but this he muſt expect with the reſt of them who have died in the ſame Faith with him, and who will not now attain that Perfection till after the Reſurrection; <hi>for there's no Work in the Grave.</hi>
+               </p>
+               <p>Man is as ſafe upon his firſt Faith in Chriſt, as if he were in Heaven, but he don't know it.</p>
+               <p>And God will not deliver out Eternal Life to Man faſter than he makes him underſtand it, for the knowledg of Eternal Life is the Eſſence of it. <hi>This is Eternal Life, to know God and Jeſus Chriſt.</hi>
+               </p>
+               <pb n="84" facs="tcp:152181:43"/>
+               <p>Every Man poſſeſſes as much of Eternal Life as he knows; and he knows as much as he poſſeſſeth, and no more.</p>
+               <p>And what the reſidue of Eternal Life is beyond our preſent knowledg, <hi>it hath not enter'd into the Heart of Man to conceive:</hi> For no Man can know till he doth know.</p>
+               <p>And hence the different Gifts of Faith by God beſtowed upon Man, are incommunicable to one another.</p>
+               <p>
+                  <hi>Abraham</hi> was ſingled out by God as the Father of the Faithful, and yet he never at<g ref="char:EOLhyphen"/>tained the Faith of Tranſlation which his Progenitor <hi>Enoch</hi> had done before him.</p>
+               <p>
+                  <hi>Eliſha</hi> was an Eye-witneſs of <hi>Elijah</hi>'s Tranſ<g ref="char:EOLhyphen"/>lation, and had a double portion of his Spirit given him, by which he wrought Miracles on others; and yet after all he died the com<g ref="char:EOLhyphen"/>mon Death of Man, having not attained to the Faith of his Maſter in that Point.</p>
+               <p>And thus the Apoſtles themſelves, who raiſed others from the dead through Faith in Chriſt, did not yet attain this Faith to pre<g ref="char:EOLhyphen"/>vent themſelves from Death.</p>
+               <p>Whence I ſay, that God in the diſtribution of Eternal Life doth not give any part of it to Man, contrary to his own Opinion and Ap<g ref="char:EOLhyphen"/>prehenſion of it.</p>
+               <p>And this is ſutable to the dealings of Men with one another. If an illiterate Man be to ſeal a Deed, which he can't read, and ano<g ref="char:EOLhyphen"/>ther
+<pb n="85" facs="tcp:152181:43"/> takes upon him to read it to him, and reads it in other words than what are written, the Law will adjudg the Execution of it to be in the ſenſe read, and not in the words written; becauſe he that ſealed it did ſo under<g ref="char:EOLhyphen"/>ſtand it.</p>
+               <p>So when the common Preachers of the Chriſtian Religion do adminiſter the Blood of Chriſt to their Communicants in the Sacra<g ref="char:EOLhyphen"/>ment, as ſignificant only to ſave them from Hell after Death, but as ineffectual againſt Death it ſelf: How ſhould the People (who perhaps think themſelves obliged to ſwear <hi>in verba Magiſtri</hi>) have any higher Conceptions of it?</p>
+               <p>And thus, <hi>like Prieſts like People.</hi>
+               </p>
+               <p>As it is delivered them, ſo they underſtand it.</p>
+               <p>And as they underſtand it, ſo they receive it.</p>
+               <p>And as they receive it, ſo it hath effect upon them. <hi>According to thy Faith be it unto thee.</hi>
+               </p>
+               <p>Which Faith (I ſay) is Knowledg, not by ſight, but by evidence of things not ſeen, of which we may have ſtronger Notions than by our Eye-ſight.</p>
+               <p>The Face of a Man gives us but a ſuper<g ref="char:EOLhyphen"/>ficial knowledg of him, but his Works and Writings tell us his Principles and Capacities.</p>
+               <p>And thus Man knows God by his Word and his Works: Nor doth God offer himſelf to Man in any way aukward to human under<g ref="char:EOLhyphen"/>ſtanding.</p>
+               <pb n="86" facs="tcp:152181:44"/>
+               <p>The reaſon why I believe that this Doctrine I am aſſerting is true, is, becauſe God hath ſaid it.</p>
+               <p>But yet I could not thus aſſert it by Argu<g ref="char:EOLhyphen"/>ment, if I did not conceive it with more ſelf<g ref="char:EOLhyphen"/>conviction than I have from any Maxims or Poſitions in human Science.</p>
+               <p>Whenever Chriſt ſpeaks of Life and Reſur<g ref="char:EOLhyphen"/>rection, he means his own; <hi>I am the Reſur<g ref="char:EOLhyphen"/>rection and the Life.</hi>
+               </p>
+               <p>And if we would thus underſtand him, this Doctrine would be plain to us whether we would or no.</p>
+               <p>But our Heads are ſo full of our own buſi<g ref="char:EOLhyphen"/>neſs, that we can't think of any Death or Reſurrection but that of our own Perſons.</p>
+               <p>And thus we are at croſs purpoſes with him; as Men are with one another, when <hi>one talks of Chalk and another of Cheeſe.</hi>
+               </p>
+               <p>Chriſt ſaith, <hi>they that attain that Life, and the Reſurrection</hi> from the Dead, can die no more, <hi>being the Children of the Reſurrection.</hi>
+               </p>
+               <p>Now here we fancy preſently, that when the Perſons of Men have been once dead and riſen again, they can die no more.</p>
+               <p>But this is falſe; for <hi>Lazarus</hi> and the others raiſed by Miracles did not thereby become the Children of the Reſurrection, but remain'd ſtill the Children of this World, and as ſuch died again.</p>
+               <pb n="87" facs="tcp:152181:44"/>
+               <p>But Chriſt by his Reſurrection did thereby become <hi>a Child of the Reſurrection,</hi> and did not, nor could then after die any more.</p>
+               <p>And therefore whoever can attain this Re<g ref="char:EOLhyphen"/>ſurrection, can die no more neither.</p>
+               <p>And this is attainable by knowledg acquired in ſtudy, like Attainments in other Sciences.</p>
+               <p>The perfection of any Science is a Myſtery to the firſt beginners in it; and hence 'tis in vain to ſpeak Wiſdom to any but the perfect.</p>
+               <p>Now the Covenant of Eternal Life is a Law of it ſelf, and a Science of it ſelf, which can never be known by the ſtudy of any other Science but it ſelf.</p>
+               <p>It is a Science out of Man's way, being a <hi>pure Invention of God.</hi>
+               </p>
+               <p>Man knows no more how to ſave himſelf, than he did to create himſelf.</p>
+               <p>But to raiſe Man's ambition to learn this, God graduats him upon his degrees of Know<g ref="char:EOLhyphen"/>ledg in it, and gives him Badges of Honour as belonging to that Degree, as Men do to one another in other Sciences.</p>
+               <p>And thus <hi>the knowledg of the Virtue of the Death, and the Power of the Reſurrection of Chriſt,</hi> makes a <hi>Degree</hi> in this Science.</p>
+               <p>Upon the attainment whereof, a Man gains the Title of <hi>a Child of the Reſurrection.</hi>
+               </p>
+               <p>To which Title doth belong this Badg of Honour, <hi>To die no more,</hi> but to make our <hi>Exit</hi> by way of Tranſlation, as Chriſt himſelf
+<pb n="88" facs="tcp:152181:45"/> (who was the firſt of this <hi>Order</hi>) did before us.</p>
+               <p>And this World being the Academy to e<g ref="char:EOLhyphen"/>ducate Man for Heaven; none ſhall ever en<g ref="char:EOLhyphen"/>ter there till they have taken this Degree here.</p>
+               <p>But when once they have paſſed this, they can never after be degraded again, to be turn<g ref="char:EOLhyphen"/>ed down amongſt the Dead (as the fallen An<g ref="char:EOLhyphen"/>gels were from Heaven) becauſe they hold by the Title of <hi>the Captain of their Salvation,</hi> which is abſolute and indefeazible.</p>
+               <p>Take one Thought more, which ſeems plainer than all the reſt.</p>
+               <p>It is ſaid, <hi>We that are alive at his coming, ſhall be caught up together in the Air with him;</hi> and we are commanded to be always ready for the ſecond coming of Chriſt.</p>
+               <p>Then if Death be neceſſary to qualify us for this ſecond coming of Chriſt, the next thing we all have to do, is to kill our ſelves that we may be ſo far in our way.</p>
+               <p>Unleſs we do expect that he ſhould ſtay for us (when he comes) while we die and riſe again, which he hath declared he will not do. For <hi>the leaſt ſtay for the greater.</hi>
+               </p>
+               <p>This long interval of time between his firſt and ſecond coming, is allowed for the preach<g ref="char:EOLhyphen"/>ing of the Goſpel. <hi>The Goſpel muſt firſt be preached through the whole World as a Witneſs
+<pb n="89" facs="tcp:152181:45"/> to all Nations, and then ſhall the End be.</hi>
+               </p>
+               <p>But every Man, as faſt as he hears of it, is in the mean time at liberty to imbrace it, without ſtaying for them that are to come af<g ref="char:EOLhyphen"/>ter him.</p>
+               <p>
+                  <hi>The Law and the Prophets were until</hi> John; <hi>but ſince the days of</hi> John the Baptiſt, <hi>the King<g ref="char:EOLhyphen"/>dom of Heaven is preached, and every Man preſſeth into it.</hi>
+               </p>
+               <p>We are not confined to the Religion of the old World, nor to expect the ſucceſs of the latter days by the ſecond coming of Chriſt, but are at liberty, every moment, to enter into the Kingdom of Heaven as faſt as we can bring our Faith up to it.</p>
+               <p>That he delays his ſecond coming, is not that he hath any more to do in order to Man's Salvation: For as to that he declared <hi>it finiſh<g ref="char:EOLhyphen"/>ed</hi> before ever he yielded to Death.</p>
+               <p>But the World is not ready to receive him, and till then the Heavens muſt contain him.</p>
+               <p>Whence this is called the Day of his Pa<g ref="char:EOLhyphen"/>tience.</p>
+               <p>But this doth not prohibit them that are ready, to come to him where he is. <hi>Come, for all things are now ready.</hi>
+               </p>
+               <p>He then was, and ſtill is ready for the Re<g ref="char:EOLhyphen"/>ſurrection of the Dead.</p>
+               <p>
+                  <hi>The hour is coming, and now is, when the Dead ſhall hear the Voice of the Son of God; and they that hear, ſhall live.</hi>
+               </p>
+               <pb n="90" facs="tcp:152181:46"/>
+               <p>Where we ſee, the Emphaſis of the Reſur<g ref="char:EOLhyphen"/>rection is not placed in any <hi>point of Time,</hi> but in <hi>the hearing of that Voice,</hi> be it when it will.</p>
+               <p>And 'tis obſervable that in all the Miracles wrought by him upon the Bodies of the Dead, he uſed different words of command, accord<g ref="char:EOLhyphen"/>ing to the different Circumſtances which the Perſons to be raiſed were then under.</p>
+               <p>The Son of the Widow of <hi>Nain,</hi> and the Daughter of <hi>Jairus</hi> (being both dead, and neither buried) when he firſt came to them, he only ſaid to them, <hi>Ariſe.</hi>
+               </p>
+               <p>But <hi>Lazarus</hi> being in the Grave, he ſaid to him, <hi>Come forth.</hi>
+               </p>
+               <p>And he did not only give different words of Command, but prefixed to each Command a particular deſcription of the very Perſon he call'd for.</p>
+               <p>He touched the Bier of the Widow's Son, and ſaid, <hi>Young Man, ariſe.</hi>
+               </p>
+               <p>And took the Ruler's Daughter by the hand, and ſaid, <hi>Maid, ariſe.</hi>
+               </p>
+               <p>And <hi>Lazarus</hi> he called by his Name:</p>
+               <p>Which were Injunctions to the reſt of the Dead to lie ſtill till he call'd 'em.</p>
+               <p>For as he himſelf obſerved in two other In<g ref="char:EOLhyphen"/>ſtances, <hi>That there were many Widows in the days of the Famine; but unto none of them was the Prophet ſent, ſave unto the Woman of</hi> Sa<g ref="char:EOLhyphen"/>repta: <hi>And many Lepers in the days of</hi> Eliſha
+<pb n="91" facs="tcp:152181:46"/> 
+                  <hi>the Prophet, but none of them were cleanſed ſave</hi> Naaman <hi>the</hi> Syrian:</p>
+               <p>So many young Men and Maids were dead and buried in thoſe days of the Son of Man, but none of them were raiſed ſave thoſe he call'd for.</p>
+               <p>Nor did theſe ariſe together, nor any one of them by virtue of the Word of Command given to the other of them, but every one in his own order (as they were named and cal<g ref="char:EOLhyphen"/>led.)</p>
+               <p>Nor ſhall there a Man or Woman ariſe from the Dead for ever, till <hi>the Son of God</hi> calls them by their Name.</p>
+               <p>And whoever after that dares ſtay for his Fellows, ſhall never be call'd again.</p>
+               <p>They that were firſt bidden to the Feaſt, and refuſed to come, were not again admitted with them that accepted the Invitation, but ſtand barr'd for ever by that dreadful Sen<g ref="char:EOLhyphen"/>tence, <hi>They ſhall never taſte of my Supper.</hi>
+               </p>
+               <p>And yet they did not refuſe it by a flat de<g ref="char:EOLhyphen"/>nial, but with the uſual Complement; That <hi>they were otherways ingaged.</hi>
+               </p>
+               <p>But if he would not admit the Son of a dead Man <hi>to go back and bury his Father;</hi>
+               </p>
+               <p>Dare we ask him leave (after he hath call'd us to Eternal Life) to go and lie with our dead Fathers, and our dead Mothers, till the Reſurrection at the laſt Day?</p>
+               <p>Let the Dead bury the Dead:</p>
+               <pb n="92" facs="tcp:152181:47"/>
+               <p>And the Dead lie with the Dead: And the reſt of the Living go and lie with them.</p>
+               <p>I'll follow him that was dead, and is alive, and lives for ever.</p>
+               <p>Nor can I think who I ſhould ſtay for.</p>
+               <p>Will any one, purſuing after Wealth, wait for a Beggar?</p>
+               <p>Or he that's flying for his Life, keep pace with a Cripple?</p>
+               <p>Why then ſhould a Man, aſpiring after Heaven, ſtay for Petty-Canons and Veſtry<g ref="char:EOLhyphen"/>men?</p>
+               <p>I remember the beſt bred Man that ever was in the World, commended <hi>Publicans and Harlots for entring into the Kingdom of God before them that thought themſelves their bet<g ref="char:EOLhyphen"/>ters.</hi>
+               </p>
+               <p>And therefore he that ſtands complement<g ref="char:EOLhyphen"/>ing with the Door of Eternal Life in his hand, offering the Ceremony to others to go before him, ſhews himſelf no Courtier of Heaven.</p>
+               <p>And tho now I am ſingle, yet I believe that this Tranſlation of Faith without Death, will be general, before the general Change (<hi>Paul</hi> ſpeaks of) ſhall come.</p>
+               <p>And that then, and not before, ſhall be the Reſurrection of the Juſt (which is called the firſt Reſurrection.)</p>
+               <p>And after that the Dead ſo ariſen, with the Living then alive, ſhall have learnt this Faith
+<pb n="93" facs="tcp:152181:47"/> (which ſhall qualify them to be caught up to<g ref="char:EOLhyphen"/>gether in the Air) then ſhall the general Re<g ref="char:EOLhyphen"/>ſurrection of the Dead be.</p>
+               <p>After which Time ſhall be no more.</p>
+               <p>But I expect that the beginning of this Faith (like all other Parts of the Kingdom of Heaven) will be like a grain of Muſtard-ſeed, ſpreading it ſelf by degrees till it overſhadow the whole Earth.</p>
+               <p>And ſince <hi>the things concerning him muſt have an end,</hi> in order to that they muſt have a be<g ref="char:EOLhyphen"/>ginning.</p>
+               <p>But whoever leads the Van, will make the World ſtart:</p>
+               <p>And muſt expect, for himſelf, to walk up and down (like <hi>Cain</hi>) with a Mark in his Forehead, and run the Gauntlet for an <hi>Iſhmae<g ref="char:EOLhyphen"/>lite,</hi> having every Man's Hand againſt him, becauſe his Hand is againſt every Man.</p>
+               <p>Than which nothing is more averſe to my Temper.</p>
+               <p>And this makes me think of publiſhing, with as much regret as he that ran away from his Errand when ſent to <hi>Niniveh.</hi>
+               </p>
+               <p>But being juſt going to croſs the Water, I dare not leave this behind me undone, leſt a Tempeſt ſend me back again to do it.</p>
+               <p>And to ſhelter my ſelf a little (tho I know my Speech would betray me) I left the Title Page Anonymous.</p>
+               <pb n="94" facs="tcp:152181:48"/>
+               <p>Nor do I think that any thing would now extort my Name from me, but the dread of the Sentence; <hi>He that is aſhamed of me, and of my words, before men, of him will I be aſhamed be<g ref="char:EOLhyphen"/>fore my Father and his Angels:</hi> For fear of which I dare not but ſubſcribe my Argument, tho with a trembling hand.</p>
+               <p>Having felt two Powers within me all the while I have been about it; one <hi>bids me write,</hi> and the other bobs my Elbow.</p>
+               <p>But ſince I have wrote this (as <hi>Pilate</hi> did his Inſcription) without conſulting any one thing elſe about it; I'll be as abſolute in mine as he was in his, <hi>What I have written I have written.</hi>
+               </p>
+               <p>And after this I'll never write again, but ſpend the reſidue of my days in Action (con<g ref="char:EOLhyphen"/>trary to the regular profeſſion of Religion.)</p>
+               <p>And having purſued that Command, <hi>ſeek firſt the Kingdom of God;</hi> I yet expect the performance of that promiſe, <hi>To receive in this Life an hundred fold, and in the World to come Life Everlaſting.</hi>
+               </p>
+               <p>I have a great deal of Buſineſs yet in this World, without doing of which Heaven it ſelf would be uneaſy to me.</p>
+               <p>And therefore do depend, that I ſhall not be taken hence in the midſt of my days, before I have done all my Heart's deſire.</p>
+               <p>But when that is done, I know no Buſineſs I have with the Dead, and therefore do as
+<pb n="95" facs="tcp:152181:48"/> much depend that I ſhall not go hence by <hi>re<g ref="char:EOLhyphen"/>turning unto the Duſt,</hi> which is the Sentence of that Law from which I claim a Diſcharge: But that I ſhall <hi>make my Exit by way of Tranſlation,</hi> which I claim as a dignity belong<g ref="char:EOLhyphen"/>ing to that Degree in the Science of Eternal Life, of which I profeſs my ſelf a Graduat, according to the true intent and meaning of the Covenant of Eternal Life revealed in the Scriptures.</p>
+               <p>And if after this, I die like other Men, I declare my ſelf to die of no Religion.</p>
+               <p>And in this let no one be concerned for me as a Deſperade.</p>
+               <p>For I am not going to renounce the other parts of our Religion, but to add another Ar<g ref="char:EOLhyphen"/>ticle of Faith to it, without which I can't underſtand the reſt.</p>
+               <p>And if I loſe this additional Article by fail<g ref="char:EOLhyphen"/>ing in this Attempt, I have as much Religion left ſtill as they that pity me.</p>
+               <p>Nor have I in all this ſpoken preſumptu<g ref="char:EOLhyphen"/>ouſly, or from fancy, having ſaid nothing but what he that made me ſaid before me.</p>
+               <p>And if it be poſſible to believe too much in God, I deſire to be guilty of that Sin.</p>
+               <p>I dread no Hell, but the Sentence prepared againſt them that deſpiſe the Goſpel.</p>
+               <p>
+                  <hi>Behold! ye Deſpiſers, and wonder, and periſh.</hi>
+               </p>
+               <p>Behold what! Behold <hi>Men coming from the Eaſt, and from the Weſt, to ſit down in the King<g ref="char:EOLhyphen"/>dom
+<pb n="96" facs="tcp:152181:49"/> of God, and you your ſelves ſhut out.</hi>
+               </p>
+               <p>Shut out from what! To be ſhut out from <hi>Virtue and Holineſs, Juſtice and Truth,</hi> per<g ref="char:EOLhyphen"/>haps would be no uneaſineſs to us all: but to be ſhut out from <hi>an eternal Draught of an eter<g ref="char:EOLhyphen"/>nal Stream of Love, from the Marriage Feaſt of the King's Son, from the view of his Bride adorn'd in her Glory, and from all the Joys of Nuptials for ever;</hi> this will be a Torment created by Man to himſelf through Unbelief, beyond the Exquiſition of Tyrants, or the Execution of Devils.</p>
+               <p>It ſeems conceivable that Man by his change into the other World will not loſe any ſpecies of his preſent Affections, or have any new ones added to them: But that all thoſe Paſſions which are now begun in him, will there increaſe upon him for ever. <hi>He that is holy, let him be holy ſtill; and he that is filthy, let him be filthy ſtill.</hi>
+               </p>
+               <p>And then tho Man cannot now conceive by what Objects his Paſſions or Affections will be thus augmented, yet by his preſent feeling of them, he may conceive the nature (tho not the perfection) of his future Joys or Tor<g ref="char:EOLhyphen"/>ments.</p>
+               <p>
+                  <hi>Did you ever feel a fit of Envy?</hi> Multiply that by thouſands till you want a Name of Number, and then call that the thouſandth thouſandth part of one of the Torments of Hell.</p>
+               <pb n="97" facs="tcp:152181:49"/>
+               <p>
+                  <hi>Did you ever feel a Pang of Love?</hi> Spend your days in <hi>Algebra,</hi> and carry on the Account of it to Heaven, and there add to that for ever, till <hi>your Deſire fail,</hi> and you'll ne'er begin to ſum the Total.</p>
+               <p>All Life is Motion, and therefore cannot be eternal without an eternal Motion.</p>
+               <p>For whenever it comes to ſtagnate, the Patient rots, and ſtinks, and dies.</p>
+               <p>The moſt pleaſant Enjoyments (being kept long in our hands) pall our Appetites to them.</p>
+               <p>And hence the ſmalleſt addition to what we had before, ſeems greater Riches to us than all our former Poſſeſſions.</p>
+               <p>And every new Thought that falls into our Studies, proves a greater Diverſion to us than all our former Knowledg.</p>
+               <p>Now in all Inventions of Men towards Perpetuity of Motion, they never attempt any thing beyond a Circle, which moving it ſelf by Rotation comes to the ſame place again.</p>
+               <p>But the Motion calculated for the mainte<g ref="char:EOLhyphen"/>nance of Eternal Life, is made to move in a direct Aſcent for ever; in every reach of which, we ſee, and taſte, and ſeel what we never did before. <hi>The Water that I ſhall give him, ſhall be a Spring of living Water, riſing up to Everlaſting Life.</hi>
+               </p>
+               <p>But behold! <hi>ye Deſpiſers, and wonder.</hi>
+               </p>
+               <pb n="98" facs="tcp:152181:50"/>
+               <p>Wonder at what! Wonder to ſee Paradiſe loſt with the Tree of Life in the midſt of it.</p>
+               <p>Wonder and curſe at <hi>Adam</hi> for an original Fact, who in the length of one day never ſo much as thought to put forth his hand, for him and us, and pull, and eat, and live for ever.</p>
+               <p>Wonder at and damn our ſelves for Fools of the laſt Impreſſion, that in the ſpace of ſeven<g ref="char:EOLhyphen"/>teen hundred years never ſo much as thought to put forth our hands, every one for himſelf, and ſeal and execute the Covenant of Eternal Life, and live for ever.</p>
+               <p>But behold! <hi>ye Deſpiſers, and wonder, and periſh.</hi>
+               </p>
+               <p>Periſh how! Why periſh under the ſame Malice againſt the Son of God for ever. <hi>They blaſphemed God, and yet repented not to give him Glory; being concluded</hi> under Unbelief, from the day of Adjournment of <hi>Time</hi> into <hi>Eternity,</hi> proclaimed by the laſt of the ſeven Heralds of Angels, who <hi>ſetting his right foot up<g ref="char:EOLhyphen"/>on the Sea, and his left foot upon the Earth, lifted up his hand to Heaven, and ſwore by him that lives for ever, That Time ſhould be no longer.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>AND now bear with me a little, while I prepare my ſelf for being ſhown as a Monſter.</p>
+               <pb n="99" facs="tcp:152181:50"/>
+               <p>'Tis no news for Believers and Unbelievers to be the Admiration of one another.</p>
+               <p>They wondered at his Works, and he mar<g ref="char:EOLhyphen"/>velled at their Unbelief. <hi>And, this is a mar<g ref="char:EOLhyphen"/>vellous thing that ye know not whence he is, who hath opened the Eyes of one born blind.</hi>
+               </p>
+               <p>Therefore to be even with the World at once, he that <hi>wonders at my Faith,</hi> I wonder <hi>at his <g ref="char:V">Ʋ</g>nbelief.</hi>
+               </p>
+               <p>And ſtare at me as long as you will, I am ſure that neither my Phyſiognomy, Sins, nor Miſ<g ref="char:EOLhyphen"/>fortunes, can make me look ſo unlikely to be <hi>tranſlated</hi> as my Redeemer was to be <hi>hang'd.</hi>
+               </p>
+               <p>And tho perhaps I may be the ſport of ſome, yet I can't but think (and ſay again) that whoever is deſigned for Happineſs will meet with ſome of that Pleaſure in reading which I have had in writing; and whoever are not ſo appointed, no one can lament them more than I do.</p>
+               <p>Nor can I think how any Man that is right in his Religion, can be wrong in his Morals, which are all ſet to right in him, as an inci<g ref="char:EOLhyphen"/>dent to his Faith.</p>
+               <p>The Blood of Chriſt hath an incident qua<g ref="char:EOLhyphen"/>lity, which cleanſeth from Sin.</p>
+               <p>But this quality is ſubſequent and acciden<g ref="char:EOLhyphen"/>tal to that legal Sanction, and firſt Appoint<g ref="char:EOLhyphen"/>ment of it, <hi>to take away the Law of Death.</hi>
+               </p>
+               <p>And he that underſtands this aright, never makes any uſe of his own perſonal Virtues
+<pb n="100" facs="tcp:152181:51"/> as an Argument for his own Salvation, leſt God ſhould overbalance againſt him with his Sins.</p>
+               <p>Nor doth God ever object a Mans own perſonal Sins to him in the day of his Faith, becauſe Chriſt had no Credit given him for his perſonal Holineſs in the day of his Death.</p>
+               <p>And therefore till I am more ſinful than he was holy, my Sins are no Objection againſt my Faith.</p>
+               <p>And becauſe in him is all my hope, I care not (almoſt) what I am my ſelf.</p>
+               <p>This I know from abroad, that <hi>Wiſdom is better than Folly:</hi>
+               </p>
+               <list>
+                  <item>Earneſt than Jeſt:</item>
+                  <item>Love than Hatred:</item>
+                  <item>Riches than Poverty:</item>
+                  <item>Health than Sickneſs:</item>
+                  <item>A virtuous Woman than a Whore:</item>
+                  <item>And an honeſt Man than a Knave.</item>
+               </list>
+               <p>And when now and then I caſt my Eyes within me; (I thank God) I find Cruelty, Covetouſneſs and Envy departed from me. I can't envy a Man of Merit, becauſe <hi>the Labourer is worthy of his Hire.</hi>
+               </p>
+               <p>And as long as I maintain a perfect Friend<g ref="char:EOLhyphen"/>ſhip with my ſelf, I can be no more a Rival to another plac'd above his Deſert, than a beautiful Female is to one of her own Sex, harder favour'd, and finer dreſt.</p>
+               <pb n="101" facs="tcp:152181:51"/>
+               <p>And as I thus envy no Man, I can't think my ſelf big enough for any one to envy me.</p>
+               <p>But if they do, I keep an Anſwer within my Conſcience to all the Hatred and Malice of Man againſt me; <hi>They hate me without a Cauſe.</hi>
+               </p>
+               <p>Beſides this, I ſay no more to any one con<g ref="char:EOLhyphen"/>cerning Religion or Morality either.</p>
+               <p>And if any one hath ought of either to ſay to me, whenever they ſhall pleaſe to make that as publick as I have done this, I'll read it.</p>
+               <p>But what they ſhall not think worth their writing, I ſhall not think worth my hearing.</p>
+               <p>It is obſerved in the Mathematicks, that the Practice doth not always anſwer the Theory.</p>
+               <p>And that therefore there is no dependance upon the mere Notions of it as they lie in the Brain, without putting them together in the form of a Tool or Inſtrument, to ſee how all things fit.</p>
+               <p>Upon which, whole ſets of thoughts have been loſt, and the Student ſet at large again.</p>
+               <p>And this made me diſtruſt my own thoughts till I had put them together, to ſee how they would look in the form of an Argument.</p>
+               <p>But in doing of this (I thank God) I have found every Joint and Article to come into its own place, and fall in with, and ſute one
+<pb n="102" facs="tcp:152181:52"/> another to a hair's breadth (beyond my ex<g ref="char:EOLhyphen"/>pectation.)</p>
+               <p>Or elſe I could not have had the confidence to produce this as an Engine in Divinity, to convey Man from Earth to Heaven.</p>
+               <p>And (to give every one their due) this Advantage I have had by <hi>Enoch</hi> and <hi>Elijah;</hi>
+               </p>
+               <p>That tho neither of them have left the form of their Faith behind them, yet their doing the thing before me, heartned me on to ſtudy out the Invention my ſelf.</p>
+               <p>And as I never did, nor will, deſire any Man to confine himſelf to my Underſtanding; ſo in making this Inquiry, I have ſet no bounds to my thoughts, but the very word of Reve<g ref="char:EOLhyphen"/>lation, without regarding the Opinion of other Men about it.</p>
+               <p>Not but that there are flights in other Sciences that ſeem as extravagant to vulgar Apprehenſions as this doth, and yet they are evincible by Demonſtration.</p>
+               <p>Every Bungler can do buſineſs with buſtling and main ſtrength, but the perfection of Science is to do the hardeſt things with the leaſt labour.</p>
+               <p>A Mathematician, by a right poſition of his Power at a due diſtance from the Center, will move a weight by the force of one hand, which five hundred Men heaving at it all to<g ref="char:EOLhyphen"/>gether cloſe upon the Center, can't ſtir.</p>
+               <pb n="103" facs="tcp:152181:52"/>
+               <p>And according to this Art, it cannot be denied, That the whole weight of this Terreſtrial Globe is moveable by the ſtrength of a Hair, and the force of a Man's Breath, only by getting far enough off from the Cen<g ref="char:EOLhyphen"/>ter before he gives the puff.</p>
+               <p>And tho this can't be done by Man, for want of a place thus to ſtand in;</p>
+               <p>Yet the demonſtration of it to our under<g ref="char:EOLhyphen"/>ſtanding, cauſes us to adore the Wiſdom and Happineſs of the Architect of Nature, and Ruler of the World, who <hi>ſitting upon the Heavens,</hi> can reign the Earth with a twined Thread.</p>
+               <p>And this prompts us to believe, that God can do other impoſſible things, and teach Man to do them too. <hi>He that believeth on me, ſhall do greater Works than theſe.</hi>
+               </p>
+               <p>Not by his own Labour, but by putting the Labour-Oar upon God.</p>
+               <p>Men may dig and carry till their Hearts ake, to remove a Mountain; but the Engine of Faith draws down the Power of God, which removes it all at once.</p>
+               <p>I am not making my ſelf Wings to fly to Heaven with, but only making my ſelf rea<g ref="char:EOLhyphen"/>dy for that Conveyance which ſhall be ſent me.</p>
+               <p>In which I don't pretend any Privilege a<g ref="char:EOLhyphen"/>bove other Men that are or will be ready with me.</p>
+               <pb n="104" facs="tcp:152181:53"/>
+               <p>Which (it ſeems, they ſay themſelves) they are not, nor ſhall be, till the Reſurrecti<g ref="char:EOLhyphen"/>on at the laſt Day.</p>
+               <p>But remember that <hi>Samuel</hi> came up in his old Mantle; which makes me think you'l re<g ref="char:EOLhyphen"/>turn much as you went.</p>
+               <p>However let us part Friends, and every one make the beſt of his way.</p>
+               <p>And if I ſhould loſe my ſelf in this un<g ref="char:EOLhyphen"/>trodden Path of Life, I can ſtill find out the beaten Road of Death blindfold.</p>
+               <p>And as I would not allure any Man, Woman, or Child, to venture themſelves with me till they ſee my ſucceſs:</p>
+               <p>So their company would do me no good: For every one muſt attain it by their own Faith.</p>
+               <p>And if this Faith will do, I have it; and if it will not do in me, it will not do in them; for God is no reſpecter of Perſons.</p>
+               <p>And yet had I a mind to juggle, I would not put the deciſion upon ſo blunt a Point.</p>
+               <p>I can write (and talk too) as ſoft as other Men. <hi>With ſubmiſſion to better Judgments; and I'll leave it to you, Gentlemen. I am but one, and I always diſtruſt my ſelf. I only hint my Thoughts: You'l pleaſe to conſider, whether you will not think that it may ſeem to deſerve your conſideration.</hi>
+               </p>
+               <pb n="105" facs="tcp:152181:53"/>
+               <p>This is a taking way of ſpeaking:</p>
+               <p>But much good may do them that uſe it; I don't deſire to take it from them, tho 'tis the ſafeſt way, becauſe there can be no advantage taken of it to do themſelves any hurt; <hi>Nor a<g ref="char:EOLhyphen"/>ny one elſe any good.</hi>
+               </p>
+               <p>But as I have more reſpect for my ſelf than to trouble the World with common Diſ<g ref="char:EOLhyphen"/>courſes, ſo I have more reverence for Mankind, than to hazard the meaneſt Figure of it with any Novelty, but what I will firſt pawn my Life to try the Truth or Falſhood of it.</p>
+               <p>And tho I do own, That the very <hi>Daring</hi> of this Eſſay, is too great an Honour for me to be guilty of; yet I know there is that gra<g ref="char:EOLhyphen"/>titude left in Man, that ſince I am willing to take the ſhame of my own Miſtake, they will not begrudg me the reſult of my ſucceſs.</p>
+               <p>If therefore (as I have ſaid before) after this, <hi>I go the way of my Fathers;</hi> I freely wave that haughty Epitaph:</p>
+               <q>Magnis tamen excidit Auſis.</q>
+               <p>And inſtead of that, knock under Table, <hi>That Satan hath beguiled me to play the Fool with my ſelf.</hi>
+               </p>
+               <p>In which however he hath ſhewed his Ma<g ref="char:EOLhyphen"/>ſter-piece; for I defy the whole Clan of Hell to form another <hi>Lie</hi> ſo like to <hi>Truth</hi> as this is.</p>
+               <pb n="106" facs="tcp:152181:54"/>
+               <p>But if I act my <hi>Motto,</hi> and go <hi>the way of a Eagle in the Air,</hi> then I have plaid a Trump upon Death, and ſhew'd my ſelf a Match for the Devil.</p>
+               <p>And while I am thus fighting with Death and Hell, it looks a little like foul play for Fleſh and Blood to interpoſe themſelves a<g ref="char:EOLhyphen"/>gainſt me.</p>
+               <p>But if any one hath ſpight enough to give me a polt, thinking to falſify my Faith, by taking away my Life, I only deſire them firſt to qualify themſelves for my Executioners, by taking this ſhort <hi>Teſt</hi> in their own Con<g ref="char:EOLhyphen"/>ſciences.</p>
+               <p>Whoever <hi>thinks that any thing herein con<g ref="char:EOLhyphen"/>tained is not fair dealing with God and Man</hi> (and giving <hi>the Devil himſelf his due</hi>) let him, or her, burn this Book, and <hi>caſt a Stone</hi> at him that wrote it.</p>
+            </div>
+            <closer>
+               <signed>J. Aſgill.</signed>
+            </closer>
+            <pb facs="tcp:152181:54"/>
+         </div>
+      </body>
+   </text>
+</TEI>
